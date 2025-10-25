@@ -1,11 +1,11 @@
 [
   {
-   "id":"string",
+   "nombre":"Mercadito 30",
    "ubicación":
    {
-    "municipio":"string",
-    "dirección":"string",
-    "coordenadas":"float"
+    "municipio":"Playa",
+    "dirección":"Calle 30 #3304 e/ 33 y 35",
+    "coordenadas":"23.225202,-82.415861"
     },
     "productos":
     [
@@ -19,7 +19,7 @@
     "transferencia":"bool"
    },
    {
-   "id":"",
+   "nombre":"",
    "ubicación":
    {
     "municipio":"",

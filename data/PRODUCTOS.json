@@ -1,46 +1,91 @@
 [
  {
-  "id":"string",
-  "nombre":"string",
-  "tipo":"string"
+  "id":"P001",
+  "nombre":"cerveza",
+  "tipo":"Alcohol"
  },
  
  {
+  "id":"P002",
+  "nombre":"Ron",
+  "tipo":"Alcohol"
+ },
+ {
+  "id":"P003",
+  "nombre":"Whisky",
+  "tipo":"Alcohol"
+ },
+ {
+  "id":"P004",
+  "nombre":"Refresco de gas(lata)",
+  "tipo":"Bebida"
+ },
+ {
+  "id":"P005",
+  "nombre":"Bebida energética",
+  "tipo":"Bebida"
+ },
+ {
+  "id":"P006",
+  "nombre":"Refresco en polvo",
+  "tipo":"Bebida"
+ },
+ {
+  "id":"P007",
+  "nombre":"Refresco de gas(pomo)",
+  "tipo":"Bebida"
+ },
+ {
+  "id":"P008",
+  "nombre":"Jugo natural",
+  "tipo":"Bebida"
+ },
+ {
+  "id":"P009",
+  "nombre":"Java de Pan",
+  "tipo":"Comida"
+ },
+  {
+  "id":"P010",
+  "nombre":"Galletas dulces",
+  "tipo":"Comida"
+ },
+  {
+  "id":"P011",
+  "nombre":"Galletas saladas",
+  "tipo":"comida"
+ },
+  {
   "id":"",
   "nombre":"",
   "tipo":""
  },
- {
+  {
   "id":"",
   "nombre":"",
   "tipo":""
  },
- {
+  {
   "id":"",
   "nombre":"",
   "tipo":""
  },
- {
+  {
   "id":"",
   "nombre":"",
   "tipo":""
  },
- {
+  {
   "id":"",
   "nombre":"",
   "tipo":""
  },
- {
+  {
   "id":"",
   "nombre":"",
   "tipo":""
  },
- {
-  "id":"",
-  "nombre":"",
-  "tipo":""
- },
- {
+  {
   "id":"",
   "nombre":"",
   "tipo":""
