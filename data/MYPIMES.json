@@ -1,0 +1,67 @@
+[
+  {
+   "id":"string",
+   "ubicación":
+   {
+    "municipio":"string",
+    "dirección":"string",
+    "coordenadas":"float"
+    },
+    "productos":
+    [
+     { 
+      "id_producto":"string",
+      "marca":"string",
+      "precio":"int"
+      }
+
+    ],
+    "transferencia":"bool"
+   },
+   {
+   "id":"",
+   "ubicación":
+   {
+    "municipio":"",
+    "dirección":"",
+    "coordenadas":""
+    },
+    "productos":
+    [
+     { 
+      "id_producto":"",
+      "marca":"",
+      "precio":""
+      }
+
+    ],
+    "transferencia":""
+   },
+   {
+   "id":"",
+   "ubicación":
+   {
+    "municipio":"",
+    "dirección":"",
+    "coordenadas":""
+    },
+    "productos":
+    [
+     { 
+      "id_producto":"",
+      "marca":"",
+      "precio":""
+      }
+
+    ],
+    "transferencia":""
+   }
+
+
+
+]
+  
+    
+
+
+
