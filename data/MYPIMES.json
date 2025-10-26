@@ -19,12 +19,12 @@
     "transferencia":"bool"
    },
    {
-   "nombre":"",
+   "nombre":"Disangie",
    "ubicación":
    {
-    "municipio":"",
-    "dirección":"",
-    "coordenadas":""
+    "municipio":"Cerro",
+    "dirección":"Calzada de Ayestaran e/ San Pablo y Dominguez",
+    "coordenadas":"23.118144,-82.383937"
     },
     "productos":
     [
