@@ -78,40 +78,159 @@
       }
      },
      { 
-      "id_producto":"",
+      "id_producto":"P001",
       "especificaciones":{
-        "tipo":"",
-        "marca":"",
-        "cantidad":"",
-        "precio":""
+        "tipo":"lata",
+        "marca":"BEER",
+        "cantidad":330,
+        "precio":250
       }
      },
      { 
-      "id_producto":"",
+      "id_producto":"P004",
       "especificaciones":{
-        "tipo":"",
-        "marca":"",
-        "cantidad":"",
-        "precio":""
+        "tipo":"lata",
+        "marca":"Max Booms Boom",
+        "cantidad":330,
+        "precio":240
       }
      },
      { 
-      "id_producto":"",
+      "id_producto":"P004",
       "especificaciones":{
-        "tipo":"",
-        "marca":"",
-        "cantidad":"",
-        "precio":""
+        "tipo":"pomo",
+        "marca":"Ciego Montero",
+        "cantidad":1500,
+        "precio":650
+      }
+     },
+     { 
+      "id_producto":"P005",
+      "especificaciones":{
+        "tipo":"lata",
+        "marca":"5shot",
+        "cantidad":250,
+        "precio":250
+      }
+     },
+     { 
+      "id_producto":"P005",
+      "especificaciones":{
+        "tipo":"lata",
+        "marca":"Shaka Mixer",
+        "cantidad":250,
+        "precio":450
+      }
+     },
+     { 
+      "id_producto":"P003",
+      "especificaciones":{
+        "tipo":"botella",
+        "marca":"Chanceler",
+        "cantidad":1000,
+        "precio":1650
+      }
+     },
+     { 
+      "id_producto":"P003",
+      "especificaciones":{
+        "tipo":"botella",
+        "marca":"ALBIN",
+        "cantidad":300,
+        "precio":650
+      }
+     },
+     { 
+      "id_producto":"P003",
+      "especificaciones":{
+        "tipo":"botella",
+        "marca":"Fire One",
+        "cantidad":1000,
+        "precio":1800
+      }
+     },
+     { 
+      "id_producto":"P020",
+      "especificaciones":{
+        "tipo":"cartón",
+        "marca":"none",
+        "cantidad":"24 huevos",
+        "precio":3000
+      }
+     },
+     { 
+      "id_producto":"P026",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"none",
+        "cantidad":907,
+        "precio":1100
+      }
+     },
+     { 
+      "id_producto":"P013",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"none",
+        "cantidad":1360,
+        "precio":900
+      }
+     },
+     { 
+      "id_producto":"P025",
+      "especificaciones":{
+        "tipo":"negro",
+        "marca":"none",
+        "cantidad":907,
+        "precio":860
+      }
+     },
+     { 
+      "id_producto":"P022",
+      "especificaciones":{
+        "tipo":"blanca",
+        "marca":"none",
+        "cantidad":2,
+        "precio":600
+      }
+     },
+     { 
+      "id_producto":"P019",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"Real Kurtz",
+        "cantidad":887,
+        "precio":2300
+      }
+     },
+     { 
+      "id_producto":"P023",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"none",
+        "cantidad":1000,
+        "precio":1670
+      }
+     },
+     { 
+      "id_producto":"P018",
+      "especificaciones":{
+        "tipo":"lata",
+        "marca":"Vima",
+        "cantidad":3000,
+        "precio":4600
+      }
+     },
+     { 
+      "id_producto":"P027",
+      "especificaciones":{
+        "tipo":"pollo",
+        "marca":"none",
+        "cantidad":453,
+        "precio":350
       }
      }
-
-
-
-
-
-
-
-
+     
     ],
     "transferencia":""
    },

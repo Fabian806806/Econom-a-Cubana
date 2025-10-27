@@ -1,39 +1,56 @@
 [
  {
   "id":"P001",
-  "nombre":"Cerveza"
+  "nombre":"Cerveza",
+  "unidad":"ml"
  },
  {
   "id":"P002",
-  "nombre":"Ron"
+  "nombre":"Ron",
+  "unidad":"ml"
  },
  {
   "id":"P003",
-  "nombre":"Whisky"
+  "nombre":"Whisky",
+  "unidad":"ml"
  },
  {
   "id":"P004",
-  "nombre":"Refresco de gas"
+  "nombre":"Refresco de gas",
+  "unidad":"ml"
  },
  {
   "id":"P005",
-  "nombre":"Bebida energética"
+  "nombre":"Bebida energética",
+  "unidad":"ml"
  },
  {
   "id":"P006",
-  "nombre":"Refresco en polvo"
+  "nombre":"Refresco en polvo",
+  "unidad":"ml"
+ },
+ {
+  "id":"P007",
+  "nombre":"Tequilla",
+  "unidad":"ml"
  },
  {
   "id":"P008",
-  "nombre":"Jugo natural"
+  "nombre":"Jugo natural",
+  "unidad":"ml"
  },
  {
   "id":"P009",
-  "nombre":"Java de Pan"
+  "nombre":"Pan"
  },
  {
   "id":"P010",
-  "nombre":"Galletas"
+  "nombre":"Galletas",
+  "unidad":"gr"
+ },
+ {
+  "id":"P011",
+  "nombre":"Dulce"
  },
  {
   "id":"P0012",
@@ -41,63 +58,77 @@
  },
  {
   "id":"P013",
-  "nombre":"Arroz"
+  "nombre":"Arroz",
+  "unidad":"gr"
  },
  {
   "id":"P014",
-  "nombre":"Papas fritas"
+  "nombre":"Papas fritas",
+  "unidad":"gr"
  },
  {
   "id":"P015",
-  "nombre":"Pasta"
+  "nombre":"Pasta",
+  "unidad":"gr"
  },
  {
   "id":"P016",
-  "nombre":"Pollo"
+  "nombre":"Pollo",
+  "unidad":"gr"
  },
  {
   "id":"P017",
-  "nombre":"Aceite"
+  "nombre":"Aceite",
+  "unidad":"ml"
  },
  {
   "id":"P018",
-  "nombre":"Puré de tomate"
+  "nombre":"Pasta de tomate",
+  "unidad":"gr"
  },
  {
   "id":"P019",
-  "nombre":"Mayonesa"
+  "nombre":"Mayonesa",
+  "unidad":"ml"
  },
  {
   "id":"P020",
-  "nombre":"Cartón de huevo"
+  "nombre":"Huevo"
  },
  {
   "id":"P021",
-  "nombre":"Sal"
+  "nombre":"Sal",
+  "unidad":"gr"
  },
  {
   "id":"P022",
-  "nombre":"Azúcar"
+  "nombre":"Azúcar",
+  "unidad":"gr"
  },
  {
   "id":"P023",
-  "nombre":"Leche en polvo"
+  "nombre":"Leche en polvo",
+  "unidad":"gr"
  },
  {
   "id":"P024",
-  "nombre":"Café"
+  "nombre":"Café",
+  "unidad":"gr"
  },
  {
   "id":"P025",
-  "nombre":"Frijól"
+  "nombre":"Frijól",
+  "unidad":"gr"
  },
  {
   "id":"P026",
-  "nombre":"Dulces"
+  "nombre":"Harina de trigo",
+  "unidad":"gr"
  },
  {
-  "id":"",
-  "nombre":""
+  "id":"P027",
+  "nombre":"Picadillo",
+  "unidad":"gr"
  }
 
 
