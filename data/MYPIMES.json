@@ -10,10 +10,14 @@
     "productos":
     [
      { 
-      "id_producto":"string",
-      "marca":"string",
-      "precio":"int"
+      "id_producto":"",
+      "especificaciones":{
+        "tipo":"",
+        "marca":"",
+        "cantidad":"",
+        "precio":""
       }
+     }
 
     ],
     "transferencia":"bool"
@@ -29,16 +33,90 @@
     "productos":
     [
      { 
-      "id_producto":"",
-      "marca":"",
-      "precio":""
+      "id_producto":"P001",
+      "especificaciones":{
+        "tipo.":"pomo",
+        "marca":"Parranda",
+        "cantidad":330,
+        "precio":220
       }
+     },
+     { 
+      "id_producto":"P001",
+      "especificaciones":{
+        "tipo":"pomo",
+        "marca":"Parranda",
+        "cantidad":500,
+        "precio":260
+      }
+     },
+     { 
+      "id_producto":"P001",
+      "especificaciones":{
+        "tipo":"pomo",
+        "marca":"Parranda",
+        "cantidad":1500,
+        "precio":650
+      }
+     },
+     { 
+      "id_producto":"P001",
+      "especificaciones":{
+        "tipo":"lata",
+        "marca":"Presidente",
+        "cantidad":355,
+        "precio":240
+      }
+     },
+     { 
+      "id_producto":"P001",
+      "especificaciones":{
+        "tipo":"lata",
+        "marca":"Especial",
+        "cantidad":330,
+        "precio":250
+      }
+     },
+     { 
+      "id_producto":"",
+      "especificaciones":{
+        "tipo":"",
+        "marca":"",
+        "cantidad":"",
+        "precio":""
+      }
+     },
+     { 
+      "id_producto":"",
+      "especificaciones":{
+        "tipo":"",
+        "marca":"",
+        "cantidad":"",
+        "precio":""
+      }
+     },
+     { 
+      "id_producto":"",
+      "especificaciones":{
+        "tipo":"",
+        "marca":"",
+        "cantidad":"",
+        "precio":""
+      }
+     }
+
+
+
+
+
+
+
 
     ],
     "transferencia":""
    },
    {
-   "id":"",
+   "nombre":"",
    "ubicación":
    {
     "municipio":"",
@@ -49,9 +127,85 @@
     [
      { 
       "id_producto":"",
-      "marca":"",
-      "precio":""
+      "especificaciones":{
+        "tipo":"",
+        "marca":"",
+        "cantidad":"",
+        "precio":""
       }
+     }
+
+
+    ],
+    "transferencia":""
+   },
+   {
+   "nombre":"",
+   "ubicación":
+   {
+    "municipio":"",
+    "dirección":"",
+    "coordenadas":""
+    },
+    "productos":
+    [
+     { 
+      "id_producto":"",
+      "especificaciones":{
+        "tipo":"",
+        "marca":"",
+        "cantidad":"",
+        "precio":""
+      }
+     }
+
+    ],
+    "transferencia":""
+   },
+   {
+   "nombre":"",
+   "ubicación":
+   {
+    "municipio":"",
+    "dirección":"",
+    "coordenadas":""
+    },
+    "productos":
+    [
+     { 
+      "id_producto":"",
+      "especificaciones":{
+        "tipo":"",
+        "marca":"",
+        "cantidad":"",
+        "precio":""
+      }
+     }
+
+
+    ],
+    "transferencia":""
+   },
+   {
+   "nombre":"",
+   "ubicación":
+   {
+    "municipio":"",
+    "dirección":"",
+    "coordenadas":""
+    },
+    "productos":
+    [
+     { 
+      "id_producto":"",
+      "especificaciones":{
+        "tipo":"",
+        "marca":"",
+        "cantidad":"",
+        "precio":""
+      }
+     }
+
 
     ],
     "transferencia":""
