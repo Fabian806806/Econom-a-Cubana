@@ -1,96 +1,104 @@
 [
  {
   "id":"P001",
-  "nombre":"cerveza",
-  "tipo":"Alcohol"
+  "nombre":"Cerveza"
  },
- 
  {
   "id":"P002",
-  "nombre":"Ron",
-  "tipo":"Alcohol"
+  "nombre":"Ron"
  },
  {
   "id":"P003",
-  "nombre":"Whisky",
-  "tipo":"Alcohol"
+  "nombre":"Whisky"
  },
  {
   "id":"P004",
-  "nombre":"Refresco de gas(lata)",
-  "tipo":"Bebida"
+  "nombre":"Refresco de gas"
  },
  {
   "id":"P005",
-  "nombre":"Bebida energética",
-  "tipo":"Bebida"
+  "nombre":"Bebida energética"
  },
  {
   "id":"P006",
-  "nombre":"Refresco en polvo",
-  "tipo":"Bebida"
- },
- {
-  "id":"P007",
-  "nombre":"Refresco de gas(pomo)",
-  "tipo":"Bebida"
+  "nombre":"Refresco en polvo"
  },
  {
   "id":"P008",
-  "nombre":"Jugo natural",
-  "tipo":"Bebida"
+  "nombre":"Jugo natural"
  },
  {
   "id":"P009",
-  "nombre":"Java de Pan",
-  "tipo":"Comida"
+  "nombre":"Java de Pan"
  },
-  {
+ {
   "id":"P010",
-  "nombre":"Galletas dulces",
-  "tipo":"Comida"
+  "nombre":"Galletas"
  },
-  {
-  "id":"P011",
-  "nombre":"Galletas saladas",
-  "tipo":"comida"
+ {
+  "id":"P0012",
+  "nombre":"Caja de Cigarros"
  },
-  {
+ {
+  "id":"P013",
+  "nombre":"Arroz"
+ },
+ {
+  "id":"P014",
+  "nombre":"Papas fritas"
+ },
+ {
+  "id":"P015",
+  "nombre":"Pasta"
+ },
+ {
+  "id":"P016",
+  "nombre":"Pollo"
+ },
+ {
+  "id":"P017",
+  "nombre":"Aceite"
+ },
+ {
+  "id":"P018",
+  "nombre":"Puré de tomate"
+ },
+ {
+  "id":"P019",
+  "nombre":"Mayonesa"
+ },
+ {
+  "id":"P020",
+  "nombre":"Cartón de huevo"
+ },
+ {
+  "id":"P021",
+  "nombre":"Sal"
+ },
+ {
+  "id":"P022",
+  "nombre":"Azúcar"
+ },
+ {
+  "id":"P023",
+  "nombre":"Leche en polvo"
+ },
+ {
+  "id":"P024",
+  "nombre":"Café"
+ },
+ {
+  "id":"P025",
+  "nombre":"Frijól"
+ },
+ {
+  "id":"P026",
+  "nombre":"Dulces"
+ },
+ {
   "id":"",
-  "nombre":"",
-  "tipo":""
- },
-  {
-  "id":"",
-  "nombre":"",
-  "tipo":""
- },
-  {
-  "id":"",
-  "nombre":"",
-  "tipo":""
- },
-  {
-  "id":"",
-  "nombre":"",
-  "tipo":""
- },
-  {
-  "id":"",
-  "nombre":"",
-  "tipo":""
- },
-  {
-  "id":"",
-  "nombre":"",
-  "tipo":""
- },
-  {
-  "id":"",
-  "nombre":"",
-  "tipo":""
+  "nombre":""
  }
- 
 
 
 
