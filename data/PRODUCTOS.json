@@ -41,7 +41,8 @@
  },
  {
   "id":"P009",
-  "nombre":"Pan"
+  "nombre":"Malta",
+  "unidad":"ml"
  },
  {
   "id":"P010",
@@ -129,7 +130,103 @@
   "id":"P027",
   "nombre":"Picadillo",
   "unidad":"gr"
+ },
+ {
+  "id":"P028",
+  "nombre":"Sorbeto",
+  "unidad":"gr"
+ },
+ {
+  "id":"P029",
+  "nombre":"Agua",
+  "unidad":"ml"
+ },
+ {
+  "id":"P030",
+  "nombre":"Jabón",
+  "unidad":"gr"
+ },
+ {
+  "id":"P031",
+  "nombre":"Shampoo",
+  "unidad":"ml"
+ },
+ {
+  "id":"P032",
+  "nombre":"Deshodorante",
+  "unidad":"ml"
+ },
+ {
+  "id":"P033",
+  "nombre":"Atún",
+  "unidad":"gr"
+ },
+ {
+  "id":"P034",
+  "nombre":"Sazón",
+  "unidad":"gr"
+ },
+ {
+  "id":"P035",
+  "nombre":"Papel sanitario",
+  "unidad":"none"
+ },
+ {
+  "id":"P036",
+  "nombre":"Pan",
+  "unidad":"none"
+ },
+ {
+  "id":"P037",
+  "nombre":"Queso",
+  "unidad":"gr"
+ },
+ {
+  "id":"P038",
+  "nombre":"Pasta dental",
+  "unidad":"ml"
+ },
+ {
+  "id":"P039",
+  "nombre":"Hígado",
+  "unidad":"gr"
+ },
+ {
+  "id":"P040",
+  "nombre":"Vinagre",
+  "unidad":"ml"
+ },
+ {
+  "id":"P041",
+  "nombre":"Kétchup",
+  "unidad":"ml"
+ },
+ {
+  "id":"P042",
+  "nombre":"Mostaza",
+  "unidad":"ml"
+ },
+ {
+  "id":"P043",
+  "nombre":"Leche condensada",
+  "unidad":"ml"
+ },
+ {
+  "id":"P044",
+  "nombre":"Frutos secos",
+  "unidad":"gr"
+ },
+ {
+  "id":"P045",
+  "nombre":"Croqueta",
+  "unidad":"none"
  }
+ 
+
+ 
+
+
+
 
 
 

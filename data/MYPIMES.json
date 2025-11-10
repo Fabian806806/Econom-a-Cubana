@@ -20,7 +20,7 @@
      }
 
     ],
-    "transferencia":"bool"
+    "Moneda":{"CUP":"bool","USD":"bool","MLC":"bool"}
    },
    {
    "nombre":"Disangie",
@@ -28,7 +28,7 @@
    {
     "municipio":"Cerro",
     "dirección":"Calzada de Ayestaran e/ San Pablo y Dominguez",
-    "coordenadas":"23.118144,-82.383937"
+    "coordenadas":"23.118019,-82.383997"
     },
     "productos":
     [
@@ -190,7 +190,7 @@
       "especificaciones":{
         "tipo":"blanca",
         "marca":"none",
-        "cantidad":2,
+        "cantidad":907,
         "precio":600
       }
      },
@@ -232,7 +232,7 @@
      }
      
     ],
-    "transferencia":""
+    "Moneda":{"CUP":true,"USD":true,"MLC":false}
    },
    {
    "nombre":"",
@@ -327,7 +327,7 @@
 
 
     ],
-    "transferencia":""
+    "Moneda":{"CUP":"bool","USD":"bool","MLC":"bool"}
    }
 
 
