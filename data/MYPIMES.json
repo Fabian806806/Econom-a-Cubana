@@ -18,6 +18,15 @@
       }
      },
      { 
+      "id_producto":"P029",
+      "especificaciones":{
+        "tipo":"pomo",
+        "marca":"Ciego Montero",
+        "cantidad":500,
+        "precio":127
+      }
+     },
+     { 
       "id_producto":"P001",
       "especificaciones":{
         "tipo":"lata",
@@ -437,6 +446,15 @@
         "marca":"Virshaan",
         "cantidad":400,
         "precio":450
+      }
+     },
+     { 
+      "id_producto":"P029",
+      "especificaciones":{
+        "tipo":"pomo",
+        "marca":"Kirkland",
+        "cantidad":500,
+        "precio":150
       }
      }
 
