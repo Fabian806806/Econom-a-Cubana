@@ -51,11 +51,13 @@
  },
  {
   "id":"P011",
-  "nombre":"Dulce"
+  "nombre":"Dulce",
+  "unidad":"none"
  },
  {
   "id":"P0012",
-  "nombre":"Caja de Cigarros"
+  "nombre":"Caja de Cigarros",
+  "unidad":"none"
  },
  {
   "id":"P013",
@@ -94,7 +96,8 @@
  },
  {
   "id":"P020",
-  "nombre":"Huevo"
+  "nombre":"Huevo",
+  "unidad":"none"
  },
  {
   "id":"P021",
