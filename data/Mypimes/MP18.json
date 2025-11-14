@@ -1,0 +1,24 @@
+{
+   "id":"",
+   "ubicación":
+   {
+    "municipio":"",
+    "coordenadas":""
+   },
+   "productos":
+   [
+     {
+      "id_producto":"",
+      "especificaciones":{
+        "tipo":"",
+        "marca":"",
+        "cantidad":0,
+        "precio":0
+      }
+     }
+   ]
+
+
+
+
+}

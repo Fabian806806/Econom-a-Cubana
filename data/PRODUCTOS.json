@@ -55,7 +55,7 @@
   "unidad":"none"
  },
  {
-  "id":"P0012",
+  "id":"P012",
   "nombre":"Caja de Cigarros",
   "unidad":"none"
  },
@@ -126,7 +126,7 @@
  },
  {
   "id":"P026",
-  "nombre":"Harina de trigo",
+  "nombre":"Harina",
   "unidad":"gr"
  },
  {
@@ -161,7 +161,7 @@
  },
  {
   "id":"P033",
-  "nombre":"Atún",
+  "nombre":"Vodka",
   "unidad":"gr"
  },
  {
