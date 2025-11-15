@@ -8,24 +8,6 @@
    "productos":
    [
      { 
-      "id_producto":"P028",
-      "especificaciones":{
-        "tipo":"none",
-        "marca":"Wafer 77",
-        "cantidad":70,
-        "precio":127
-      }
-     },
-     { 
-      "id_producto":"P029",
-      "especificaciones":{
-        "tipo":"pomo",
-        "marca":"Ciego Montero",
-        "cantidad":500,
-        "precio":127
-      }
-     },
-     { 
       "id_producto":"P001",
       "especificaciones":{
         "tipo":"lata",
@@ -116,6 +98,15 @@
       }
      },
      { 
+      "id_producto":"P029",
+      "especificaciones":{
+        "tipo":"pomo",
+        "marca":"Ciego Montero",
+        "cantidad":500,
+        "precio":127
+      }
+     },
+     { 
       "id_producto":"P017",
       "especificaciones":{
         "tipo":"girasol",
@@ -154,7 +145,7 @@
      { 
       "id_producto":"P030",
       "especificaciones":{
-        "tipo":"none",
+        "tipo":"olor",
         "marca":"Light",
         "cantidad":80,
         "precio":125
@@ -176,6 +167,15 @@
         "marca":"Cosami",
         "cantidad":300,
         "precio":700
+      }
+     },
+     { 
+      "id_producto":"P028",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"Wafer 77",
+        "cantidad":70,
+        "precio":127
       }
      }
    

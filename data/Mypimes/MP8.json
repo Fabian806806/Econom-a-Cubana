@@ -1,24 +1,202 @@
 {
-   "id":"",
+   "id":"MP8",
    "ubicación":
    {
-    "municipio":"",
-    "coordenadas":""
+    "municipio":"Centro Habana",
+    "coordenadas":"23.13233, -82.36875"
    },
    "productos":
    [
      {
-      "id_producto":"",
+      "id_producto":"P001",
       "especificaciones":{
-        "tipo":"",
-        "marca":"",
-        "cantidad":0,
-        "precio":0
+        "tipo":"lata",
+        "marca":"Qbanito",
+        "cantidad":330,
+        "precio":250
+      }
+     },
+     {
+      "id_producto":"P003",
+      "especificaciones":{
+        "tipo":"botella",
+        "marca":"Qbanito",
+        "cantidad":1000,
+        "precio":1570
+      }
+     },
+     {
+      "id_producto":"P033",
+      "especificaciones":{
+        "tipo":"botella",
+        "marca":"Qbanito",
+        "cantidad":1000,
+        "precio":1540
+      }
+     },
+     {
+      "id_producto":"P007",
+      "especificaciones":{
+        "tipo":"botella",
+        "marca":"Flor Salvaje",
+        "cantidad":1000,
+        "precio":1680
+      }
+     },
+     {
+      "id_producto":"P005",
+      "especificaciones":{
+        "tipo":"lata",
+        "marca":"TsnT",
+        "cantidad":250,
+        "precio":280
+      }
+     },
+     {
+      "id_producto":"P029",
+      "especificaciones":{
+        "tipo":"pomo",
+        "marca":"Roxane",
+        "cantidad":500,
+        "precio":165
+      }
+     },
+     {
+      "id_producto":"P029",
+      "especificaciones":{
+        "tipo":"pomo",
+        "marca":"Don Aguiar",
+        "cantidad":500,
+        "precio":165
+      }
+     },
+     {
+      "id_producto":"P017",
+      "especificaciones":{
+        "tipo":"girasol",
+        "marca":"Qbanito",
+        "cantidad":1000,
+        "precio":990
+      }
+     },
+     {
+      "id_producto":"P019",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"Vima",
+        "cantidad":300,
+        "precio":1220
+      }
+     },
+     {
+      "id_producto":"P041",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"Vima",
+        "cantidad":320,
+        "precio":1090
+      }
+     },
+     {
+      "id_producto":"P041",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"Cosami",
+        "cantidad":300,
+        "precio":580
+      }
+     },
+     {
+      "id_producto":"P042",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"Vima",
+        "cantidad":320,
+        "precio":1275
+      }
+     },
+     {
+      "id_producto":"P042",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"Kurtz",
+        "cantidad":567,
+        "precio":1180
+      }
+     },
+     {
+      "id_producto":"P024",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"Café Venezuela",
+        "cantidad":200,
+        "precio":1380
+      }
+     },
+     {
+      "id_producto":"P024",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"Isla Grande",
+        "cantidad":250,
+        "precio":1580
+      }
+     },
+     {
+      "id_producto":"P022",
+      "especificaciones":{
+        "tipo":"blanca",
+        "marca":"none",
+        "cantidad":1000,
+        "precio":670
+      }
+     },
+     {
+      "id_producto":"P025",
+      "especificaciones":{
+        "tipo":"verde",
+        "marca":"Penelas",
+        "cantidad":1000,
+        "precio":1280
+      }
+     },
+     {
+      "id_producto":"P025",
+      "especificaciones":{
+        "tipo":"garbanzo",
+        "marca":"Penelas",
+        "cantidad":1000,
+        "precio":1390
+      }
+     },
+     {
+      "id_producto":"P014",
+      "especificaciones":{
+        "tipo":"pellys",
+        "marca":"Bravo Bozo",
+        "cantidad":45,
+        "precio":295
+      }
+     },
+     {
+      "id_producto":"P014",
+      "especificaciones":{
+        "tipo":"pellys",
+        "marca":"Bravo Special",
+        "cantidad":45,
+        "precio":295
+      }
+     },
+     {
+      "id_producto":"P035",
+      "especificaciones":{
+        "tipo":"paquete",
+        "marca":"Monarca",
+        "cantidad":"none",
+        "precio":770
       }
      }
-   ]
-
-
-
+     
+    ]
 
 }

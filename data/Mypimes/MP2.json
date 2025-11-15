@@ -82,7 +82,7 @@
      { 
       "id_producto":"P018",
       "especificaciones":{
-        "tipo":"lata",
+        "tipo":"none",
         "marca":"Virshaan",
         "cantidad":400,
         "precio":450

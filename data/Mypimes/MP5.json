@@ -98,7 +98,7 @@
       }
      },
      {
-      "id_producto":"P10",
+      "id_producto":"P010",
       "especificaciones":{
         "tipo":"dulce",
         "marca":"Recheado",
@@ -127,7 +127,7 @@
      {
       "id_producto":"P014",
       "especificaciones":{
-        "tipo":"none",
+        "tipo":"papas fritas",
         "marca":"Kryzpo",
         "cantidad":38,
         "precio":300

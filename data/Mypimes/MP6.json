@@ -1,5 +1,5 @@
 {
-   "id":"",
+   "id":"MP6",
    "ubicación":
    {
     "municipio":"Centro Habana",
@@ -11,7 +11,7 @@
       "id_producto":"P001",
       "especificaciones":{
         "tipo":"lata",
-        "marca":"Unlager",
+        "marca":"Unlaguer",
         "cantidad":330,
         "precio":250
       }
@@ -47,7 +47,7 @@
       "id_producto":"P004",
       "especificaciones":{
         "tipo":"lata",
-        "marca":"Boom Boom",
+        "marca":"Booms Boom",
         "cantidad":330,
         "precio":220
       }
