@@ -1,13 +1,211 @@
 {
-   "id":"",
+   "id":"MP11",
    "ubicación":
    {
-    "municipio":"",
-    "coordenadas":""
+    "municipio":"Centro Habana",
+    "coordenadas":"23.13078, -82.37682"
    },
    "productos":
    [
      {
+      "id_producto":"P004",
+      "especificaciones":{
+        "tipo":"lata",
+        "marca":"Coca Cola",
+        "cantidad":500,
+        "precio":550
+      }
+     },
+      {
+      "id_producto":"P005",
+      "especificaciones":{
+        "tipo":"lata",
+        "marca":"Black Bruin",
+        "cantidad":250,
+        "precio":420
+      }
+     },
+      {
+      "id_producto":"P008",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"Twist",
+        "cantidad":200,
+        "precio":140
+      }
+     },
+      {
+      "id_producto":"P008",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"Twist",
+        "cantidad":1000,
+        "precio":700
+      }
+     },
+      {
+      "id_producto":"P017",
+      "especificaciones":{
+        "tipo":"soya",
+        "marca":"Saude",
+        "cantidad":900,
+        "precio":950
+      }
+     },
+      {
+      "id_producto":"P013",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"Gazal",
+        "cantidad":1000,
+        "precio":1500
+      }
+     },
+      {
+      "id_producto":"P025",
+      "especificaciones":{
+        "tipo":"negro",
+        "marca":"La Cata",
+        "cantidad":500,
+        "precio":800
+      }
+     },
+      {
+      "id_producto":"P025",
+      "especificaciones":{
+        "tipo":"garbanzo",
+        "marca":"La Cata",
+        "cantidad":500,
+        "precio":850
+      }
+     },
+      {
+      "id_producto":"P014",
+      "especificaciones":{
+        "tipo":"papas fritas",
+        "marca":"Master Potato",
+        "cantidad":160,
+        "precio":1300
+      }
+     },
+      {
+      "id_producto":"P015",
+      "especificaciones":{
+        "tipo":"codito",
+        "marca":"Gazal",
+        "cantidad":500,
+        "precio":400
+      }
+     },
+      {
+      "id_producto":"P018",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"Sterilgarda",
+        "cantidad":1000,
+        "precio":1100
+      }
+     },
+      {
+      "id_producto":"P018",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"Naturas",
+        "cantidad":385,
+        "precio":1050
+      }
+     },
+      {
+      "id_producto":"P022",
+      "especificaciones":{
+        "tipo":"blanca",
+        "marca":"Kupu",
+        "cantidad":1000,
+        "precio":800
+      }
+     },
+      {
+      "id_producto":"P019",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"tamek",
+        "cantidad":320,
+        "precio":1200
+      }
+     },
+      {
+      "id_producto":"P019",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"Sultan",
+        "cantidad":600,
+        "precio":1000
+      }
+     },
+      {
+      "id_producto":"P024",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"Krallar Kahvesi",
+        "cantidad":250,
+        "precio":2000
+      }
+     },
+      {
+      "id_producto":"P026",
+      "especificaciones":{
+        "tipo":"trigo",
+        "marca":"Sinangil",
+        "cantidad":1000,
+        "precio":700
+      }
+     },
+      {
+      "id_producto":"P016",
+      "especificaciones":{
+        "tipo":"pechuga",
+        "marca":"none",
+        "cantidad":1000,
+        "precio":2200
+      }
+     },
+      {
+      "id_producto":"P016",
+      "especificaciones":{
+        "tipo":"bistec de pechuga",
+        "marca":"none",
+        "cantidad":500,
+        "precio":1530
+      }
+     },
+      {
+      "id_producto":"P039",
+      "especificaciones":{
+        "tipo":"pollo",
+        "marca":"Seara",
+        "cantidad":1000,
+        "precio":1200
+      }
+     },
+      {
+      "id_producto":"P023",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"none",
+        "cantidad":1000,
+        "precio":1650
+      }
+     },
+      {
+      "id_producto":"P030",
+      "especificaciones":{
+        "tipo":"baño",
+        "marca":"Caché",
+        "cantidad":100,
+        "precio":200
+      }
+     },
+      {
       "id_producto":"",
       "especificaciones":{
         "tipo":"",
@@ -15,8 +213,32 @@
         "cantidad":0,
         "precio":0
       }
-     }
-   ]
+     },
+      {
+      "id_producto":"",
+      "especificaciones":{
+        "tipo":"",
+        "marca":"",
+        "cantidad":0,
+        "precio":0
+      }
+     },
+      {
+      "id_producto":"",
+      "especificaciones":{
+        "tipo":"",
+        "marca":"",
+        "cantidad":0,
+        "precio":0
+      }
+     },
+
+  
+  
+  
+  
+  
+    ]
 
 
 
