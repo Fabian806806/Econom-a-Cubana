@@ -166,7 +166,7 @@
  },
  {
   "id":"P034",
-  "nombre":"Sazón",
+  "nombre":"Condimento",
   "unidad":"gr"
  },
  {
@@ -218,12 +218,8 @@
   "id":"P044",
   "nombre":"Frutos secos",
   "unidad":"gr"
- },
- {
-  "id":"P045",
-  "nombre":"Croqueta",
-  "unidad":"none"
  }
+ 
  
 
  

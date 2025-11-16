@@ -1,24 +1,256 @@
 {
-   "id":"",
+   "id":"MP10",
    "ubicación":
    {
-    "municipio":"",
-    "coordenadas":""
+    "municipio":"Centro Habana",
+    "coordenadas":"23.13144, -82.37626"
    },
    "productos":
    [
      {
-      "id_producto":"",
+      "id_producto":"P001",
       "especificaciones":{
-        "tipo":"",
-        "marca":"",
-        "cantidad":0,
-        "precio":0
+        "tipo":"lata",
+        "marca":"La Fría",
+        "cantidad":330,
+        "precio":260
+      }
+     },
+     {
+      "id_producto":"P001",
+      "especificaciones":{
+        "tipo":"lata",
+        "marca":"Cristal",
+        "cantidad":350,
+        "precio":400
+      }
+     },
+     {
+      "id_producto":"P002",
+      "especificaciones":{
+        "tipo":"botella",
+        "marca":"Havana Club",
+        "cantidad":700,
+        "precio":2500
+      }
+     },
+     {
+      "id_producto":"P003",
+      "especificaciones":{
+        "tipo":"botella",
+        "marca":"Chanceler",
+        "cantidad":1000,
+        "precio":1850
+      }
+     },
+     {
+      "id_producto":"P004",
+      "especificaciones":{
+        "tipo":"lata",
+        "marca":"Santa",
+        "cantidad":330,
+        "precio":280
+      }
+     },
+     {
+      "id_producto":"P004",
+      "especificaciones":{
+        "tipo":"lata",
+        "marca":"Floridita",
+        "cantidad":330,
+        "precio":300
+      }
+     },
+     {
+      "id_producto":"P004",
+      "especificaciones":{
+        "tipo":"pomo",
+        "marca":"Ciego Montero",
+        "cantidad":1500,
+        "precio":600
+      }
+     },
+     {
+      "id_producto":"P029",
+      "especificaciones":{
+        "tipo":"pomo",
+        "marca":"Ciego Montero",
+        "cantidad":1500,
+        "precio":350
+      }
+     },
+     {
+      "id_producto":"P005",
+      "especificaciones":{
+        "tipo":"lata",
+        "marca":"5shot",
+        "cantidad":250,
+        "precio":350
+      }
+     },
+     {
+      "id_producto":"P008",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"Domty",
+        "cantidad":235,
+        "precio":250
+      }
+     },
+     {
+      "id_producto":"P010",
+      "especificaciones":{
+        "tipo":"salada",
+        "marca":"Salti Crackers",
+        "cantidad":595,
+        "precio":1400
+      }
+     },
+     {
+      "id_producto":"P010",
+      "especificaciones":{
+        "tipo":"dulce",
+        "marca":"Yupi",
+        "cantidad":110,
+        "precio":250
+      }
+     },
+     {
+      "id_producto":"P013",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"Del Campo",
+        "cantidad":2300,
+        "precio":2500
+      }
+     },
+     {
+      "id_producto":"P025",
+      "especificaciones":{
+        "tipo":"colorado",
+        "marca":"Del Campo",
+        "cantidad":454,
+        "precio":850
+      }
+     },
+     {
+      "id_producto":"P025",
+      "especificaciones":{
+        "tipo":"blanco",
+        "marca":"Del Campo",
+        "cantidad":454,
+        "precio":850
+      }
+     },
+     {
+      "id_producto":"P014",
+      "especificaciones":{
+        "tipo":"papas fritas",
+        "marca":"Paparica",
+        "cantidad":100,
+        "precio":850
+      }
+     },
+     {
+      "id_producto":"P015",
+      "especificaciones":{
+        "tipo":"codito",
+        "marca":"Ada",
+        "cantidad":500,
+        "precio":450
+      }
+     },
+     {
+      "id_producto":"P019",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"Los Atrevidos",
+        "cantidad":510,
+        "precio":1550
+      }
+     },
+     {
+      "id_producto":"P041",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"Kurtz",
+        "cantidad":680,
+        "precio":1200
+      }
+     },
+     {
+      "id_producto":"P042",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"Kurtz",
+        "cantidad":567,
+        "precio":900
+      }
+     },
+     {
+      "id_producto":"P021",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"none",
+        "cantidad":1000,
+        "precio":650
+      }
+     },
+     {
+      "id_producto":"P034",
+      "especificaciones":{
+        "tipo":"sazón",
+        "marca":"Goya",
+        "cantidad":5,
+        "precio":50
+      }
+     },
+     {
+      "id_producto":"P043",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"La Guajirita",
+        "cantidad":390,
+        "precio":650
+      }
+     },
+     {
+      "id_producto":"P037",
+      "especificaciones":{
+        "tipo":"gouda",
+        "marca":"none",
+        "cantidad":400,
+        "precio":1500
+      }
+     },
+     {
+      "id_producto":"P016",
+      "especificaciones":{
+        "tipo":"pechuga",
+        "marca":"none",
+        "cantidad":2000,
+        "precio":4500
+      }
+     },
+     {
+      "id_producto":"P027",
+      "especificaciones":{
+        "tipo":"mixto",
+        "marca":" El Cocinerito",
+        "cantidad":400,
+        "precio":400
+      }
+     },
+     {
+      "id_producto":"P039",
+      "especificaciones":{
+        "tipo":"pollo",
+        "marca":"none",
+        "cantidad":1000,
+        "precio":900
       }
      }
-   ]
-
-
-
+  
+    ]
 
 }
