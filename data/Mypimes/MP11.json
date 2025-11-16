@@ -204,43 +204,8 @@
         "cantidad":100,
         "precio":200
       }
-     },
-      {
-      "id_producto":"",
-      "especificaciones":{
-        "tipo":"",
-        "marca":"",
-        "cantidad":0,
-        "precio":0
-      }
-     },
-      {
-      "id_producto":"",
-      "especificaciones":{
-        "tipo":"",
-        "marca":"",
-        "cantidad":0,
-        "precio":0
-      }
-     },
-      {
-      "id_producto":"",
-      "especificaciones":{
-        "tipo":"",
-        "marca":"",
-        "cantidad":0,
-        "precio":0
-      }
-     },
-
-  
-  
-  
-  
+     }
   
     ]
-
-
-
 
 }
