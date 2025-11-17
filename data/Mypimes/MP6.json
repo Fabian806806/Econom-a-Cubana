@@ -120,7 +120,7 @@
       "especificaciones":{
         "tipo":"negro",
         "marca":"Penelas",
-        "cantidad":1000,
+        "cantidad":500,
         "precio":900
       }
      },
@@ -129,7 +129,7 @@
       "especificaciones":{
         "tipo":"colorado",
         "marca":"Penelas",
-        "cantidad":1000,
+        "cantidad":500,
         "precio":1150
       }
      },
@@ -138,7 +138,7 @@
       "especificaciones":{
         "tipo":"blanco",
         "marca":"Penelas",
-        "cantidad":1000,
+        "cantidad":500,
         "precio":900
       }
      },
@@ -165,7 +165,7 @@
       "especificaciones":{
         "tipo":"none",
         "marca":"Oderich",
-        "cantidad":400,
+        "cantidad":200,
         "precio":600
       }
      },
@@ -174,7 +174,7 @@
       "especificaciones":{
         "tipo":"none",
         "marca":"Oderich",
-        "cantidad":400,
+        "cantidad":200,
         "precio":500
       }
      },

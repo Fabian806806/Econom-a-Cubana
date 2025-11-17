@@ -1,24 +1,301 @@
 {
-   "id":"",
+   "id":"MP13",
    "ubicación":
    {
-    "municipio":"",
+    "municipio":"Centro Habana",
     "coordenadas":""
    },
    "productos":
    [
      {
-      "id_producto":"",
+      "id_producto":"P001",
       "especificaciones":{
-        "tipo":"",
-        "marca":"",
+        "tipo":"botella",
+        "marca":"Cristal",
+        "cantidad":350,
+        "precio":300
+      }
+     },
+     {
+      "id_producto":"P001",
+      "especificaciones":{
+        "tipo":"lata",
+        "marca":"Unlaguer",
+        "cantidad":330,
+        "precio":240
+      }
+     },
+     {
+      "id_producto":"P001",
+      "especificaciones":{
+        "tipo":"lata",
+        "marca":"La Fría",
+        "cantidad":330,
+        "precio":240
+      }
+     },
+     {
+      "id_producto":"P002",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"Cubay",
+        "cantidad":200,
+        "precio":360
+      }
+     },
+     {
+      "id_producto":"P002",
+      "especificaciones":{
+        "tipo":"botella",
+        "marca":"Havana Club",
+        "cantidad":1000,
+        "precio":1800
+      }
+     },
+     {
+      "id_producto":"P003",
+      "especificaciones":{
+        "tipo":"botella",
+        "marca":"Reserve 7",
+        "cantidad":750,
+        "precio":1450
+      }
+     },
+     {
+      "id_producto":"P003",
+      "especificaciones":{
+        "tipo":"botella",
+        "marca":"Reserve 7",
+        "cantidad":300,
+        "precio":500
+      }
+     },
+     {
+      "id_producto":"P003",
+      "especificaciones":{
+        "tipo":"botella",
+        "marca":"Chanceler",
+        "cantidad":1000,
+        "precio":1550
+      }
+     },
+     {
+      "id_producto":"P004",
+      "especificaciones":{
+        "tipo":"pomo",
+        "marca":"Ciego Montero",
+        "cantidad":1500,
+        "precio":680
+      }
+     },
+     {
+      "id_producto":"P005",
+      "especificaciones":{
+        "tipo":"lata",
+        "marca":"Shaka",
+        "cantidad":250,
+        "precio":400
+      }
+     },
+     {
+      "id_producto":"P006",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"Zuko",
+        "cantidad":13,
+        "precio":100
+      }
+     },
+     {
+      "id_producto":"P008",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"Goliath",
+        "cantidad":1000,
+        "precio":850
+      }
+     },
+     {
+      "id_producto":"P009",
+      "especificaciones":{
+        "tipo":"lata",
+        "marca":"Perla Negra",
+        "cantidad":330,
+        "precio":300
+      }
+     },
+     {
+      "id_producto":"P010",
+      "especificaciones":{
+        "tipo":"dulce",
+        "marca":"Luanitos",
+        "cantidad":110,
+        "precio":250
+      }
+     },
+     {
+      "id_producto":"P010",
+      "especificaciones":{
+        "tipo":"dulce",
+        "marca":"Luanesco",
+        "cantidad":110,
+        "precio":250
+      }
+     },
+     {
+      "id_producto":"P010",
+      "especificaciones":{
+        "tipo":"dulce",
+        "marca":"Bonucci",
+        "cantidad":68,
+        "precio":180
+      }
+     },
+     {
+      "id_producto":"P010",
+      "especificaciones":{
+        "tipo":"dulce",
+        "marca":"Rellenitas",
         "cantidad":0,
         "precio":0
       }
+     },
+     {
+      "id_producto":"P011",
+      "especificaciones":{
+        "tipo":"dona",
+        "marca":"Lingo",
+        "cantidad":30,
+        "precio":130
+      }
+     },
+     {
+      "id_producto":"P013",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"Pateko",
+        "cantidad":1000,
+        "precio":700
+      }
+     },
+     {
+      "id_producto":"P014",
+      "especificaciones":{
+        "tipo":"pellys",
+        "marca":"Hello I`M Chips",
+        "cantidad":65,
+        "precio":500
+      }
+     },
+     {
+      "id_producto":"P025",
+      "especificaciones":{
+        "tipo":"negro",
+        "marca":"Del Campo",
+        "cantidad":454,
+        "precio":650
+      }
+     },
+     {
+      "id_producto":"P025",
+      "especificaciones":{
+        "tipo":"blanco",
+        "marca":"Penelas",
+        "cantidad":500,
+        "precio":800
+      }
+     },
+     {
+      "id_producto":"P018",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"Vima",
+        "cantidad":400,
+        "precio":650
+      }
+     },
+     {
+      "id_producto":"P019",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"Real Mayonnaise",
+        "cantidad":450,
+        "precio":1700
+      }
+     },
+     {
+      "id_producto":"P041",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"Oderich",
+        "cantidad":400,
+        "precio":800
+      }
+     },
+     {
+      "id_producto":"P042",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"Oderich",
+        "cantidad":200,
+        "precio":490
+      }
+     },
+     {
+      "id_producto":"P024",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"El Dorado",
+        "cantidad":250,
+        "precio":2100
+      }
+     },
+     {
+      "id_producto":"P024",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"Aroma",
+        "cantidad":250,
+        "precio":2000
+      }
+     },
+     {
+      "id_producto":"P016",
+      "especificaciones":{
+        "tipo":"pechuga",
+        "marca":"none",
+        "cantidad":2000,
+        "precio":5000
+      }
+     },
+     {
+      "id_producto":"P039",
+      "especificaciones":{
+        "tipo":"pollo",
+        "marca":"none",
+        "cantidad":1000,
+        "precio":900
+      }
+     },
+     {
+      "id_producto":"P020",
+      "especificaciones":{
+        "tipo":"cartón",
+        "marca":"none",
+        "cantidad":"none",
+        "precio":3000
+      }
+     },
+     {
+      "id_producto":"P035",
+      "especificaciones":{
+        "tipo":"paquete",
+        "marca":"Yeya",
+        "cantidad":"none",
+        "precio":600
+      }
      }
-   ]
-
-
-
+     
+    ]
 
 }

@@ -1,24 +1,229 @@
 {
-   "id":"",
+   "id":"MP12",
    "ubicación":
    {
-    "municipio":"",
+    "municipio":"Centro Habana",
     "coordenadas":""
    },
    "productos":
    [
      {
-      "id_producto":"",
+      "id_producto":"P001",
       "especificaciones":{
-        "tipo":"",
-        "marca":"",
-        "cantidad":0,
-        "precio":0
+        "tipo":"lata",
+        "marca":"Presidente",
+        "cantidad":350,
+        "precio":280
+      }
+     },
+     {
+      "id_producto":"P001",
+      "especificaciones":{
+        "tipo":"lata",
+        "marca":"Unlaguer",
+        "cantidad":330,
+        "precio":270
+      }
+     },
+     {
+      "id_producto":"P001",
+      "especificaciones":{
+        "tipo":"lata",
+        "marca":"La Bala",
+        "cantidad":330,
+        "precio":280
+      }
+     },
+     {
+      "id_producto":"P003",
+      "especificaciones":{
+        "tipo":"botella",
+        "marca":"John Mail",
+        "cantidad":1000,
+        "precio":1600
+      }
+     },
+     {
+      "id_producto":"P003",
+      "especificaciones":{
+        "tipo":"botella",
+        "marca":"Reserve 7",
+        "cantidad":750,
+        "precio":1600
+      }
+     },
+     {
+      "id_producto":"P003",
+      "especificaciones":{
+        "tipo":"botella",
+        "marca":"Reserve 7",
+        "cantidad":300,
+        "precio":550
+      }
+     },
+     {
+      "id_producto":"P033",
+      "especificaciones":{
+        "tipo":"botella",
+        "marca":"Vavilov",
+        "cantidad":1000,
+        "precio":1600
+      }
+     },
+     {
+      "id_producto":"P033",
+      "especificaciones":{
+        "tipo":"botella",
+        "marca":"Bellfort",
+        "cantidad":1000,
+        "precio":1600
+      }
+     },
+     {
+      "id_producto":"P004",
+      "especificaciones":{
+        "tipo":"lata",
+        "marca":"Santa",
+        "cantidad":330,
+        "precio":250
+      }
+     },
+     {
+      "id_producto":"P004",
+      "especificaciones":{
+        "tipo":"lata",
+        "marca":"Atlas",
+        "cantidad":250,
+        "precio":400
+      }
+     },
+     {
+      "id_producto":"P004",
+      "especificaciones":{
+        "tipo":"lata",
+        "marca":"Vod-K",
+        "cantidad":250,
+        "precio":400
+      }
+     },
+     {
+      "id_producto":"P008",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"Badelli",
+        "cantidad":200,
+        "precio":200
+      }
+     },
+     {
+      "id_producto":"P009",
+      "especificaciones":{
+        "tipo":"lata",
+        "marca":"Perla Negra",
+        "cantidad":330,
+        "precio":300
+      }
+     },
+     {
+      "id_producto":"P029",
+      "especificaciones":{
+        "tipo":"pomo",
+        "marca":"Ciego Montero",
+        "cantidad":500,
+        "precio":200
+      }
+     },
+     {
+      "id_producto":"P013",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"Polidinho",
+        "cantidad":1000,
+        "precio":750
+      }
+     },
+     {
+      "id_producto":"P014",
+      "especificaciones":{
+        "tipo":"pellys",
+        "marca":"Pelly",
+        "cantidad":50,
+        "precio":600
+      }
+     },
+     {
+      "id_producto":"P015",
+      "especificaciones":{
+        "tipo":"codito",
+        "marca":"Badelli",
+        "cantidad":350,
+        "precio":350
+      }
+     },
+     {
+      "id_producto":"P015",
+      "especificaciones":{
+        "tipo":"spaguetti",
+        "marca":"Donatella",
+        "cantidad":500,
+        "precio":350
+      }
+     },
+     {
+      "id_producto":"P017",
+      "especificaciones":{
+        "tipo":"girasol",
+        "marca":"Aloy",
+        "cantidad":1000,
+        "precio":1200
+      }
+     },
+     {
+      "id_producto":"P018",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"Badelli",
+        "cantidad":2200,
+        "precio":2500
+      }
+     },
+     {
+      "id_producto":"P018",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"Maito",
+        "cantidad":400,
+        "precio":700
+      }
+     },
+     {
+      "id_producto":"P019",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"Mayo+",
+        "cantidad":500,
+        "precio":1000
+      }
+     },
+     {
+      "id_producto":"P011",
+      "especificaciones":{
+        "tipo":"bizcocho",
+        "marca":"Bonucci",
+        "cantidad":45,
+        "precio":200
+      }
+     },
+     {
+      "id_producto":"P028",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"Renata",
+        "cantidad":1150,
+        "precio":450
       }
      }
-   ]
-
-
-
+  
+    ]
 
 }
