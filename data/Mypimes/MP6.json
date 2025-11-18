@@ -38,8 +38,8 @@
       "id_producto":"P002",
       "especificaciones":{
         "tipo":"botella",
-        "marca":"Havana Club",
-        "cantidad":1000,
+        "marca":"Havana Club Original",
+        "cantidad":700,
         "precio":1800
       }
      },

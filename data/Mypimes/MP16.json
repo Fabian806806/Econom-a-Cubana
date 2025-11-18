@@ -6,19 +6,233 @@
     "coordenadas":""
    },
    "productos":
-   [
+   [ 
      {
-      "id_producto":"",
+      "id_producto":"P001",
       "especificaciones":{
-        "tipo":"",
-        "marca":"",
-        "cantidad":0,
-        "precio":0
+        "tipo":"lata",
+        "marca":"Shekels",
+        "cantidad":330,
+        "precio":240
+      }
+     },
+     {
+      "id_producto":"P001",
+      "especificaciones":{
+        "tipo":"lata",
+        "marca":"Belga Star",
+        "cantidad":330,
+        "precio":240
+      }
+     },
+     {
+      "id_producto":"P002",
+      "especificaciones":{
+        "tipo":"botella",
+        "marca":"Capitán Cortez",
+        "cantidad":965,
+        "precio":1700
+      }
+     },
+     {
+      "id_producto":"P033",
+      "especificaciones":{
+        "tipo":"botella",
+        "marca":"Magic Ice",
+        "cantidad":1000,
+        "precio":1700
+      }
+     },
+     {
+      "id_producto":"P004",
+      "especificaciones":{
+        "tipo":"pomo",
+        "marca":"Ciego Montero",
+        "cantidad":1500,
+        "precio":660
+      }
+     },
+     {
+      "id_producto":"P005",
+      "especificaciones":{
+        "tipo":"lata",
+        "marca":"Go+",
+        "cantidad":250,
+        "precio":270
+      }
+     },
+     {
+      "id_producto":"P009",
+      "especificaciones":{
+        "tipo":"lata",
+        "marca":"Perla Negra",
+        "cantidad":330,
+        "precio":290
+      }
+     },
+     {
+      "id_producto":"P029",
+      "especificaciones":{
+        "tipo":"pomo",
+        "marca":"Ciego Montero",
+        "cantidad":500,
+        "precio":160
+      }
+     },
+     {
+      "id_producto":"P012",
+      "especificaciones":{
+        "tipo":"suave",
+        "marca":"Englishman",
+        "cantidad":"none",
+        "precio":550
+      }
+     },
+     {
+      "id_producto":"P010",
+      "especificaciones":{
+        "tipo":"salada",
+        "marca":"Crokantinas",
+        "cantidad":577,
+        "precio":1260
+      }
+     },
+     {
+      "id_producto":"P014",
+      "especificaciones":{
+        "tipo":"pellys",
+        "marca":"J.Higgs",
+        "cantidad":241,
+        "precio":1200
+      }
+     },
+     {
+      "id_producto":"P014",
+      "especificaciones":{
+        "tipo":"pellys",
+        "marca":"Hello I`M Chips",
+        "cantidad":65,
+        "precio":400
+      }
+     },
+     {
+      "id_producto":"P014",
+      "especificaciones":{
+        "tipo":"papas fritas",
+        "marca":"Totas",
+        "cantidad":130,
+        "precio":1100
+      }
+     },
+     {
+      "id_producto":"P018",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"Differ",
+        "cantidad":200,
+        "precio":280
+      }
+     },
+     {
+      "id_producto":"P018",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"Victoria Garden",
+        "cantidad":400,
+        "precio":450
+      }
+     },
+     {
+      "id_producto":"P019",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"Differ",
+        "cantidad":200,
+        "precio":380
+      }
+     },
+     {
+      "id_producto":"P041",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"Kurtz",
+        "cantidad":680,
+        "precio":1000
+      }
+     },
+     {
+      "id_producto":"P042",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"Kurtz",
+        "cantidad":567,
+        "precio":900
+      }
+     },
+     {
+      "id_producto":"P021",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"none",
+        "cantidad":1000,
+        "precio":350
+      }
+     },
+     {
+      "id_producto":"P022",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"Energy",
+        "cantidad":1000,
+        "precio":750
+      }
+     },
+     {
+      "id_producto":"P025",
+      "especificaciones":{
+        "tipo":"negro",
+        "marca":"Malu",
+        "cantidad":1000,
+        "precio":950
+      }
+     },
+     {
+      "id_producto":"P025",
+      "especificaciones":{
+        "tipo":"negro",
+        "marca":"Del Campo",
+        "cantidad":454,
+        "precio":720
+      }
+     },
+     {
+      "id_producto":"P025",
+      "especificaciones":{
+        "tipo":"blanco",
+        "marca":"Del Campo",
+        "cantidad":454,
+        "precio":750
+      }
+     },
+     {
+      "id_producto":"P025",
+      "especificaciones":{
+        "tipo":"garbanzo",
+        "marca":"Del Campo",
+        "cantidad":454,
+        "precio":650
+      }
+     },
+     {
+      "id_producto":"P043",
+      "especificaciones":{
+        "tipo":"none",
+        "marca":"Milcow",
+        "cantidad":397,
+        "precio":550
       }
      }
-   ]
 
-
-
+    ]
 
 }
