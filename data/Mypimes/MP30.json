@@ -1,0 +1,288 @@
+{
+  "id": "MP30",
+  "ubicación": {
+    "municipio": "Centro Habana",
+    "coordenadas": "23.136664, -82.362141"
+  },
+  "productos": [
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Cristal",
+        "cantidad": 355,
+        "precio": 380
+      }
+    },
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Unlaguer",
+        "cantidad": 330,
+        "precio": 250
+      }
+    },
+    {
+      "id_producto": "P003",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Capitán Cortez",
+        "cantidad": 965,
+        "precio": 1820
+      }
+    },
+    {
+      "id_producto": "P003",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Sir Albin",
+        "cantidad": 300,
+        "precio": 600
+      }
+    },
+    {
+      "id_producto": "P033",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Roskoff",
+        "cantidad": 965,
+        "precio": 1820
+      }
+    },
+    {
+      "id_producto": "P004",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Santa",
+        "cantidad": 330,
+        "precio": 260
+      }
+    },
+    {
+      "id_producto": "P004",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Floridita",
+        "cantidad": 330,
+        "precio": 260
+      }
+    },
+    {
+      "id_producto": "P004",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Pepsi",
+        "cantidad": 355,
+        "precio": 320
+      }
+    },
+    {
+      "id_producto": "P005",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Flash",
+        "cantidad": 250,
+        "precio": 260
+      }
+    },
+    {
+      "id_producto": "P005",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Vod-K",
+        "cantidad": 250,
+        "precio": 355
+      }
+    },
+    {
+      "id_producto": "P005",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "5shot",
+        "cantidad": 250,
+        "precio": 260
+      }
+    },
+    {
+      "id_producto": "P008",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Badelli",
+        "cantidad": 200,
+        "precio": 190
+      }
+    },
+    {
+      "id_producto": "P008",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Goliath",
+        "cantidad": 950,
+        "precio": 950
+      }
+    },
+    {
+      "id_producto": "P009",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Perla Negra",
+        "cantidad": 355,
+        "precio": 300
+      }
+    },
+    {
+      "id_producto": "P029",
+      "especificaciones": {
+        "tipo": "pomo",
+        "marca": "Ciego Montero",
+        "cantidad": 500,
+        "precio": 180
+      }
+    },
+    {
+      "id_producto": "P029",
+      "especificaciones": {
+        "tipo": "pomo",
+        "marca": "Ciego Montero",
+        "cantidad": 1500,
+        "precio": 300
+      }
+    },
+    {
+      "id_producto": "P010",
+      "especificaciones": {
+        "tipo": "salada",
+        "marca": "Crokantinas",
+        "cantidad": 577,
+        "precio": 1400
+      }
+    },
+    {
+      "id_producto": "P010",
+      "especificaciones": {
+        "tipo": "dulce",
+        "marca": "Porleo",
+        "cantidad": 56,
+        "precio": 160
+      }
+    },
+    {
+      "id_producto": "P010",
+      "especificaciones": {
+        "tipo": "dulce",
+        "marca": "Renata",
+        "cantidad": 112,
+        "precio": 260
+      }
+    },
+    {
+      "id_producto": "P011",
+      "especificaciones": {
+        "tipo": "pastel",
+        "marca": "Porleo",
+        "cantidad": 40,
+        "precio": 140
+      }
+    },
+    {
+      "id_producto": "P028",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Wafer",
+        "cantidad": 50,
+        "precio": 160
+      }
+    },
+    {
+      "id_producto": "P013",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Cíes",
+        "cantidad": 1000,
+        "precio": 720
+      }
+    },
+    {
+      "id_producto": "P013",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Disempre",
+        "cantidad": 1000,
+        "precio": 720
+      }
+    },
+    {
+      "id_producto": "P015",
+      "especificaciones": {
+        "tipo": "codito",
+        "marca": "Galo",
+        "cantidad": 500,
+        "precio": 390
+      }
+    },
+    {
+      "id_producto": "P015",
+      "especificaciones": {
+        "tipo": "spaguetti",
+        "marca": "Galo",
+        "cantidad": 500,
+        "precio": 390
+      }
+    },
+    {
+      "id_producto": "P021",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Eliges",
+        "cantidad": 1000,
+        "precio": 580
+      }
+    },
+    {
+      "id_producto": "P022",
+      "especificaciones": {
+        "tipo": "blanca",
+        "marca": null,
+        "cantidad": 1000,
+        "precio": 740
+      }
+    },
+    {
+      "id_producto": "P024",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Dufiltro",
+        "cantidad": 250,
+        "precio": 1820
+      }
+    },
+    {
+      "id_producto": "P025",
+      "especificaciones": {
+        "tipo": "colorado",
+        "marca": "Del Campo",
+        "cantidad": 454,
+        "precio": 910
+      }
+    },
+    {
+      "id_producto": "P030",
+      "especificaciones": {
+        "tipo": "baño",
+        "marca": "Pemila",
+        "cantidad": 100,
+        "precio": 160
+      }
+    },
+    {
+      "id_producto": "P035",
+      "especificaciones": {
+        "tipo": "paquete",
+        "marca": "La Excelencia",
+        "cantidad": null,
+        "precio": 660
+      }
+    }
+  ]
+}

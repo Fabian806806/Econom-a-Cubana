@@ -1,0 +1,252 @@
+{
+  "id": "MP21",
+  "ubicación": {
+    "municipio": "Centro Habana",
+    "coordenadas": "23.13917, -82.37544"
+  },
+  "productos": [
+    {
+      "id_producto": "P002",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Havana Club Añejo 7 Años",
+        "cantidad": 700,
+        "precio": 4500
+      }
+    },
+    {
+      "id_producto": "P013",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Savana",
+        "cantidad": 1000,
+        "precio": 650
+      }
+    },
+    {
+      "id_producto": "P015",
+      "especificaciones": {
+        "tipo": "spaguetti",
+        "marca": "Ridel",
+        "cantidad": 500,
+        "precio": 355
+      }
+    },
+    {
+      "id_producto": "P015",
+      "especificaciones": {
+        "tipo": "spaguetti",
+        "marca": "Italpasta",
+        "cantidad": 900,
+        "precio": 750
+      }
+    },
+    {
+      "id_producto": "P015",
+      "especificaciones": {
+        "tipo": "codito",
+        "marca": "Italpasta",
+        "cantidad": 1000,
+        "precio": 750
+      }
+    },
+    {
+      "id_producto": "P015",
+      "especificaciones": {
+        "tipo": "codito",
+        "marca": "La Parma",
+        "cantidad": 500,
+        "precio": 400
+      }
+    },
+    {
+      "id_producto": "P017",
+      "especificaciones": {
+        "tipo": "soya",
+        "marca": "Saude",
+        "cantidad": 900,
+        "precio": 890
+      }
+    },
+    {
+      "id_producto": "P018",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Vima",
+        "cantidad": 400,
+        "precio": 600
+      }
+    },
+    {
+      "id_producto": "P018",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Helna",
+        "cantidad": 600,
+        "precio": 750
+      }
+    },
+    {
+      "id_producto": "P040",
+      "especificaciones": {
+        "tipo": "ambar",
+        "marca": "Deleite",
+        "cantidad": 1000,
+        "precio": 400
+      }
+    },
+    {
+      "id_producto": "P040",
+      "especificaciones": {
+        "tipo": "vino tinto",
+        "marca": "Aldaketa",
+        "cantidad": 1000,
+        "precio": 800
+      }
+    },
+    {
+      "id_producto": "P040",
+      "especificaciones": {
+        "tipo": "vino blanco",
+        "marca": "Eliges",
+        "cantidad": 1000,
+        "precio": 750
+      }
+    },
+    {
+      "id_producto": "P025",
+      "especificaciones": {
+        "tipo": "negro",
+        "marca": "Malú",
+        "cantidad": 1000,
+        "precio": 900
+      }
+    },
+    {
+      "id_producto": "P019",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Cosami",
+        "cantidad": 300,
+        "precio": 900
+      }
+    },
+    {
+      "id_producto": "P019",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Mayo+",
+        "cantidad": 480,
+        "precio": 850
+      }
+    },
+    {
+      "id_producto": "P041",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Eliges",
+        "cantidad": 540,
+        "precio": 900
+      }
+    },
+    {
+      "id_producto": "P042",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Kurtz",
+        "cantidad": 567,
+        "precio": 980
+      }
+    },
+    {
+      "id_producto": "P026",
+      "especificaciones": {
+        "tipo": "trigo",
+        "marca": null,
+        "cantidad": 1000,
+        "precio": 500
+      }
+    },
+    {
+      "id_producto": "P034",
+      "especificaciones": {
+        "tipo": "sazón",
+        "marca": "Altunsa",
+        "cantidad": 10,
+        "precio": 40
+      }
+    },
+    {
+      "id_producto": "P043",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Sweet Valley",
+        "cantidad": 390,
+        "precio": 550
+      }
+    },
+    {
+      "id_producto": "P016",
+      "especificaciones": {
+        "tipo": "pechuga",
+        "marca": null,
+        "cantidad": 2000,
+        "precio": 4800
+      }
+    },
+    {
+      "id_producto": "P016",
+      "especificaciones": {
+        "tipo": "molleja",
+        "marca": null,
+        "cantidad": 1000,
+        "precio": 1200
+      }
+    },
+    {
+      "id_producto": "P039",
+      "especificaciones": {
+        "tipo": "pollo",
+        "marca": null,
+        "cantidad": 1000,
+        "precio": 850
+      }
+    },
+    {
+      "id_producto": "P027",
+      "especificaciones": {
+        "tipo": "mixto",
+        "marca": null,
+        "cantidad": 454,
+        "precio": 355
+      }
+    },
+    {
+      "id_producto": "P032",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Axe",
+        "cantidad": 45,
+        "precio": 1500
+      }
+    },
+    {
+      "id_producto": "P032",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Old Spice",
+        "cantidad": 50,
+        "precio": 1500
+      }
+    },
+    {
+      "id_producto": "P038",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Colgate",
+        "cantidad": 150,
+        "precio": 900
+      }
+    }
+  ]
+}

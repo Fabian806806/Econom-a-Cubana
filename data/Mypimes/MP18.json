@@ -1,0 +1,333 @@
+{
+  "id": "MP18",
+  "ubicación": {
+    "municipio": "Centro Habana",
+    "coordenadas": "23.13609, -82.37831"
+  },
+  "productos": [
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Unlaguer",
+        "cantidad": 330,
+        "precio": 240
+      }
+    },
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Shekels",
+        "cantidad": 330,
+        "precio": 240
+      }
+    },
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Lander Brau",
+        "cantidad": 330,
+        "precio": 230
+      }
+    },
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Presidente",
+        "cantidad": 355,
+        "precio": 300
+      }
+    },
+    {
+      "id_producto": "P002",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Santiago de Cuba Carta Blanca",
+        "cantidad": 700,
+        "precio": 3500
+      }
+    },
+    {
+      "id_producto": "P002",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Santiago de Cuba Añejo 8 Años",
+        "cantidad": 700,
+        "precio": 6400
+      }
+    },
+    {
+      "id_producto": "P002",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Havana Club Añejo Blanco",
+        "cantidad": 1000,
+        "precio": 2300
+      }
+    },
+    {
+      "id_producto": "P003",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Milner Green Label",
+        "cantidad": 375,
+        "precio": 750
+      }
+    },
+    {
+      "id_producto": "P003",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Chanceler",
+        "cantidad": 1000,
+        "precio": 1500
+      }
+    },
+    {
+      "id_producto": "P004",
+      "especificaciones": {
+        "tipo": "pomo",
+        "marca": "Ciego Montero",
+        "cantidad": 1500,
+        "precio": 650
+      }
+    },
+    {
+      "id_producto": "P004",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Coca Cola",
+        "cantidad": 355,
+        "precio": 270
+      }
+    },
+    {
+      "id_producto": "P005",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Vitalis",
+        "cantidad": 250,
+        "precio": 260
+      }
+    },
+    {
+      "id_producto": "P005",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Vod-K",
+        "cantidad": 250,
+        "precio": 360
+      }
+    },
+    {
+      "id_producto": "P005",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Shaka",
+        "cantidad": 250,
+        "precio": 355
+      }
+    },
+    {
+      "id_producto": "P010",
+      "especificaciones": {
+        "tipo": "dulce",
+        "marca": "Golden Foods Galletas María",
+        "cantidad": 170,
+        "precio": 420
+      }
+    },
+    {
+      "id_producto": "P010",
+      "especificaciones": {
+        "tipo": "dulce",
+        "marca": "Luanitos",
+        "cantidad": 110,
+        "precio": 210
+      }
+    },
+    {
+      "id_producto": "P010",
+      "especificaciones": {
+        "tipo": "dulce",
+        "marca": "Nutro",
+        "cantidad": 30,
+        "precio": 110
+      }
+    },
+    {
+      "id_producto": "P011",
+      "especificaciones": {
+        "tipo": "barquillo",
+        "marca": "Richy",
+        "cantidad": 25,
+        "precio": 150
+      }
+    },
+    {
+      "id_producto": "P015",
+      "especificaciones": {
+        "tipo": "spaguetti",
+        "marca": "Donatella",
+        "cantidad": 500,
+        "precio": 380
+      }
+    },
+    {
+      "id_producto": "P040",
+      "especificaciones": {
+        "tipo": "ambar",
+        "marca": "Deleite",
+        "cantidad": 1500,
+        "precio": 650
+      }
+    },
+    {
+      "id_producto": "P040",
+      "especificaciones": {
+        "tipo": "vino",
+        "marca": "Aldaketa",
+        "cantidad": 1000,
+        "precio": 860
+      }
+    },
+    {
+      "id_producto": "P018",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Mansana Roja",
+        "cantidad": 850,
+        "precio": 1000
+      }
+    },
+    {
+      "id_producto": "P018",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "VAL",
+        "cantidad": 140,
+        "precio": 220
+      }
+    },
+    {
+      "id_producto": "P018",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Vima",
+        "cantidad": 400,
+        "precio": 580
+      }
+    },
+    {
+      "id_producto": "P019",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Celorrio",
+        "cantidad": 500,
+        "precio": 1450
+      }
+    },
+    {
+      "id_producto": "P041",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Kurtz",
+        "cantidad": 680,
+        "precio": 1200
+      }
+    },
+    {
+      "id_producto": "P042",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Oderich",
+        "cantidad": 190,
+        "precio": 450
+      }
+    },
+    {
+      "id_producto": "P024",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Paraná",
+        "cantidad": 250,
+        "precio": 1700
+      }
+    },
+    {
+      "id_producto": "P024",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "La Carreta",
+        "cantidad": 284,
+        "precio": 2600
+      }
+    },
+    {
+      "id_producto": "P025",
+      "especificaciones": {
+        "tipo": "garbanzo",
+        "marca": "Del Campo",
+        "cantidad": 454,
+        "precio": 850
+      }
+    },
+    {
+      "id_producto": "P025",
+      "especificaciones": {
+        "tipo": "lenteja",
+        "marca": "Del Campo",
+        "cantidad": 454,
+        "precio": 820
+      }
+    },
+    {
+      "id_producto": "P025",
+      "especificaciones": {
+        "tipo": "verde",
+        "marca": "Del Campo",
+        "cantidad": 454,
+        "precio": 720
+      }
+    },
+    {
+      "id_producto": "P025",
+      "especificaciones": {
+        "tipo": "negro",
+        "marca": "Malú",
+        "cantidad": 1000,
+        "precio": 890
+      }
+    },
+    {
+      "id_producto": "P043",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "La Granjera",
+        "cantidad": 390,
+        "precio": 560
+      }
+    },
+    {
+      "id_producto": "P043",
+      "especificaciones": {
+        "tipo": null,
+        "marca": null,
+        "cantidad": 390,
+        "precio": 600
+      }
+    },
+    {
+      "id_producto": "P035",
+      "especificaciones": {
+        "tipo": "paquete",
+        "marca": "La Excelencia",
+        "cantidad": null,
+        "precio": 550
+      }
+    }
+  ]
+}

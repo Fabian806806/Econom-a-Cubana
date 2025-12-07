@@ -1,192 +1,180 @@
 {
-   "id":"MP1",
-   "ubicación":
-   {
-    "municipio":"Centro Habana",
-    "coordenadas":"23.13471, -82.36347"
-   },
-   "productos":
-   [
-     { 
-      "id_producto":"P001",
-      "especificaciones":{
-        "tipo":"lata",
-        "marca":"Presidente",
-        "cantidad":350,
-        "precio":200
+  "id": "MP1",
+  "ubicación": {
+    "municipio": "Centro Habana",
+    "coordenadas": "23.13471, -82.36347"
+  },
+  "productos": [
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Presidente",
+        "cantidad": 355,
+        "precio": 200
       }
-     },
-     { 
-      "id_producto":"P001",
-      "especificaciones":{
-        "tipo":"lata",
-        "marca":"Cristal",
-        "cantidad":350,
-        "precio":290
+    },
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Cristal",
+        "cantidad": 355,
+        "precio": 290
       }
-     },
-     { 
-      "id_producto":"P001",
-      "especificaciones":{
-        "tipo":"lata",
-        "marca":"Almara",
-        "cantidad":330,
-        "precio":199
+    },
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Almara",
+        "cantidad": 330,
+        "precio": 199
       }
-     },
-     { 
-      "id_producto":"P002",
-      "especificaciones":{
-        "tipo":"botella",
-        "marca":"Apache",
-        "cantidad":1000,
-        "precio":1090
+    },
+    {
+      "id_producto": "P002",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Apache",
+        "cantidad": 1000,
+        "precio": 1090
       }
-     },
-     { 
-      "id_producto":"P003",
-      "especificaciones":{
-        "tipo":"botella",
-        "marca":"Sir Albin",
-        "cantidad":300,
-        "precio":425
+    },
+    {
+      "id_producto": "P003",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Sir Albin",
+        "cantidad": 300,
+        "precio": 425
       }
-     },
-     { 
-      "id_producto":"P003",
-      "especificaciones":{
-        "tipo":"botella",
-        "marca":"Louisville",
-        "cantidad":1000,
-        "precio":1190
+    },
+    {
+      "id_producto": "P003",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Louisville",
+        "cantidad": 1000,
+        "precio": 1190
       }
-     },
-     { 
-      "id_producto":"P007",
-      "especificaciones":{
-        "tipo":"botella",
-        "marca":"Ninnoff",
-        "cantidad":300,
-        "precio":425
+    },
+    {
+      "id_producto": "P007",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Ninnoff",
+        "cantidad": 300,
+        "precio": 425
       }
-     },
-     { 
-      "id_producto":"P006",
-      "especificaciones":{
-        "tipo":"none",
-        "marca":"Golden",
-        "cantidad":9,
-        "precio":25
+    },
+    {
+      "id_producto": "P006",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Golden",
+        "cantidad": 9,
+        "precio": 25
       }
-     },
-     { 
-      "id_producto":"P012",
-      "especificaciones":{
-        "tipo":"none",
-        "marca":"Dover",
-        "cantidad":"none",
-        "precio":430
+    },
+    {
+      "id_producto": "P012",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Dover",
+        "cantidad": null,
+        "precio": 430
       }
-     },
-     { 
-      "id_producto":"P004",
-      "especificaciones":{
-        "tipo":"pomo",
-        "marca":"Ciego Montero",
-        "cantidad":1500,
-        "precio":510
+    },
+    {
+      "id_producto": "P004",
+      "especificaciones": {
+        "tipo": "pomo",
+        "marca": "Ciego Montero",
+        "cantidad": 1500,
+        "precio": 510
       }
-     },
-     { 
-      "id_producto":"P029",
-      "especificaciones":{
-        "tipo":"pomo",
-        "marca":"Ciego Montero",
-        "cantidad":500,
-        "precio":127
+    },
+    {
+      "id_producto": "P029",
+      "especificaciones": {
+        "tipo": "pomo",
+        "marca": "Ciego Montero",
+        "cantidad": 500,
+        "precio": 127
       }
-     },
-     { 
-      "id_producto":"P017",
-      "especificaciones":{
-        "tipo":"girasol",
-        "marca":"Ada",
-        "cantidad":1000,
-        "precio":870
+    },
+    {
+      "id_producto": "P017",
+      "especificaciones": {
+        "tipo": "girasol",
+        "marca": "Ada",
+        "cantidad": 1000,
+        "precio": 870
       }
-     },
-     { 
-      "id_producto":"P015",
-      "especificaciones":{
-        "tipo":"spaguetti",
-        "marca":"Santa Shopia",
-        "cantidad":500,
-        "precio":250
+    },
+    {
+      "id_producto": "P015",
+      "especificaciones": {
+        "tipo": "spaguetti",
+        "marca": "Santa Shopia",
+        "cantidad": 500,
+        "precio": 250
       }
-     },
-     { 
-      "id_producto":"P034",
-      "especificaciones":{
-        "tipo":"sazón",
-        "marca":"Mina",
-        "cantidad":5,
-        "precio":33
+    },
+    {
+      "id_producto": "P034",
+      "especificaciones": {
+        "tipo": "sazón",
+        "marca": "Mina",
+        "cantidad": 5,
+        "precio": 33
       }
-     },
-     { 
-      "id_producto":"P019",
-      "especificaciones":{
-        "tipo":"none",
-        "marca":"Cosami",
-        "cantidad":300,
-        "precio":700
+    },
+    {
+      "id_producto": "P019",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Cosami",
+        "cantidad": 300,
+        "precio": 700
       }
-     },
-     { 
-      "id_producto":"P030",
-      "especificaciones":{
-        "tipo":"baño",
-        "marca":"Light",
-        "cantidad":80,
-        "precio":125
+    },
+    {
+      "id_producto": "P030",
+      "especificaciones": {
+        "tipo": "baño",
+        "marca": "Light",
+        "cantidad": 80,
+        "precio": 125
       }
-     },
-     { 
-      "id_producto":"P032",
-      "especificaciones":{
-        "tipo":"none",
-        "marca":"Wokali",
-        "cantidad":80,
-        "precio":530
+    },
+    {
+      "id_producto": "P032",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Wokali",
+        "cantidad": 80,
+        "precio": 530
       }
-     },
-     { 
-      "id_producto":"P019",
-      "especificaciones":{
-        "tipo":"pomo",
-        "marca":"Cosami",
-        "cantidad":300,
-        "precio":700
+    },
+    {
+      "id_producto": "P019",
+      "especificaciones": {
+        "tipo": "pomo",
+        "marca": "Cosami",
+        "cantidad": 300,
+        "precio": 700
       }
-     },
-     { 
-      "id_producto":"P028",
-      "especificaciones":{
-        "tipo":"none",
-        "marca":"Wafer 77",
-        "cantidad":70,
-        "precio":127
+    },
+    {
+      "id_producto": "P028",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Wafer 77",
+        "cantidad": 70,
+        "precio": 127
       }
-     }
-   
-    ]
-    
+    }
+  ]
 }
-  
-
-
-  
-    
-
-
-

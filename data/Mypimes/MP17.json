@@ -1,24 +1,306 @@
 {
-   "id":"",
-   "ubicación":
-   {
-    "municipio":"",
-    "coordenadas":""
-   },
-   "productos":
-   [
-     {
-      "id_producto":"",
-      "especificaciones":{
-        "tipo":"",
-        "marca":"",
-        "cantidad":0,
-        "precio":0
+  "id": "MP17",
+  "ubicación": {
+    "municipio": "Centro Habana",
+    "coordenadas": "23.1339, -82.37824"
+  },
+  "productos": [
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Holland Import",
+        "cantidad": 330,
+        "precio": 250
       }
-     }
-   ]
-
-
-
-
+    },
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Cristal",
+        "cantidad": 355,
+        "precio": 330
+      }
+    },
+    {
+      "id_producto": "P002",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Havana Club Ritual",
+        "cantidad": 700,
+        "precio": 2000
+      }
+    },
+    {
+      "id_producto": "P003",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Whytehall",
+        "cantidad": 1000,
+        "precio": 1500
+      }
+    },
+    {
+      "id_producto": "P003",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Howells",
+        "cantidad": 1000,
+        "precio": 1500
+      }
+    },
+    {
+      "id_producto": "P003",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Apache",
+        "cantidad": 1000,
+        "precio": 1500
+      }
+    },
+    {
+      "id_producto": "P033",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Galleón",
+        "cantidad": 700,
+        "precio": 1300
+      }
+    },
+    {
+      "id_producto": "P033",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Vavilov",
+        "cantidad": 1000,
+        "precio": 1500
+      }
+    },
+    {
+      "id_producto": "P005",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Vod-K",
+        "cantidad": 250,
+        "precio": 355
+      }
+    },
+    {
+      "id_producto": "P005",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Go+",
+        "cantidad": 250,
+        "precio": 250
+      }
+    },
+    {
+      "id_producto": "P008",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Badelli",
+        "cantidad": 200,
+        "precio": 200
+      }
+    },
+    {
+      "id_producto": "P009",
+      "especificaciones": {
+        "tipo": "pomo",
+        "marca": "Guajira",
+        "cantidad": 330,
+        "precio": 280
+      }
+    },
+    {
+      "id_producto": "P010",
+      "especificaciones": {
+        "tipo": "salada",
+        "marca": "Salti Bicks",
+        "cantidad": 595,
+        "precio": 1100
+      }
+    },
+    {
+      "id_producto": "P010",
+      "especificaciones": {
+        "tipo": "salada",
+        "marca": "Aldiva",
+        "cantidad": 65,
+        "precio": 200
+      }
+    },
+    {
+      "id_producto": "P010",
+      "especificaciones": {
+        "tipo": "dulce",
+        "marca": "Goya María",
+        "cantidad": 198.5,
+        "precio": 800
+      }
+    },
+    {
+      "id_producto": "P010",
+      "especificaciones": {
+        "tipo": "dulce",
+        "marca": "Goya Carnaval",
+        "cantidad": 403,
+        "precio": 1200
+      }
+    },
+    {
+      "id_producto": "P028",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Bauducco",
+        "cantidad": 142,
+        "precio": 520
+      }
+    },
+    {
+      "id_producto": "P015",
+      "especificaciones": {
+        "tipo": "spaguetti",
+        "marca": "La Parma",
+        "cantidad": 500,
+        "precio": 360
+      }
+    },
+    {
+      "id_producto": "P019",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Cosami",
+        "cantidad": 300,
+        "precio": 980
+      }
+    },
+    {
+      "id_producto": "P019",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Kurtz",
+        "cantidad": 887,
+        "precio": 2500
+      }
+    },
+    {
+      "id_producto": "P019",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Nonapepa",
+        "cantidad": 200,
+        "precio": 450
+      }
+    },
+    {
+      "id_producto": "P023",
+      "especificaciones": {
+        "tipo": "líquida",
+        "marca": "Vima",
+        "cantidad": 1000,
+        "precio": 1200
+      }
+    },
+    {
+      "id_producto": "P024",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "El Cafetazo",
+        "cantidad": 284,
+        "precio": 2000
+      }
+    },
+    {
+      "id_producto": "P024",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Ziva",
+        "cantidad": 640,
+        "precio": 3000
+      }
+    },
+    {
+      "id_producto": "P025",
+      "especificaciones": {
+        "tipo": "garbanzo",
+        "marca": "Del Campo",
+        "cantidad": 454,
+        "precio": 750
+      }
+    },
+    {
+      "id_producto": "P025",
+      "especificaciones": {
+        "tipo": "negro",
+        "marca": "Del Campo",
+        "cantidad": 454,
+        "precio": 800
+      }
+    },
+    {
+      "id_producto": "P025",
+      "especificaciones": {
+        "tipo": "colorado",
+        "marca": "Del Campo",
+        "cantidad": 454,
+        "precio": 850
+      }
+    },
+    {
+      "id_producto": "P026",
+      "especificaciones": {
+        "tipo": "trigo",
+        "marca": "Aloy",
+        "cantidad": 1000,
+        "precio": 650
+      }
+    },
+    {
+      "id_producto": "P040",
+      "especificaciones": {
+        "tipo": "ambar",
+        "marca": "Deleite",
+        "cantidad": 1500,
+        "precio": 1000
+      }
+    },
+    {
+      "id_producto": "P034",
+      "especificaciones": {
+        "tipo": "sazón",
+        "marca": "Badia",
+        "cantidad": 5,
+        "precio": 80
+      }
+    },
+    {
+      "id_producto": "P042",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Oderich",
+        "cantidad": 190,
+        "precio": 500
+      }
+    },
+    {
+      "id_producto": "P030",
+      "especificaciones": {
+        "tipo": "baño",
+        "marca": "Royal Lady",
+        "cantidad": 80,
+        "precio": 140
+      }
+    },
+    {
+      "id_producto": "P035",
+      "especificaciones": {
+        "tipo": "paquete",
+        "marca": "La Excelencia",
+        "cantidad": null,
+        "precio": 550
+      }
+    }
+  ]
 }

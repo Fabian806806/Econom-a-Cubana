@@ -1,0 +1,306 @@
+{
+  "id": "MP26",
+  "ubicación": {
+    "municipio": "Centro Habana",
+    "coordenadas": "23.14257, -82.37829"
+  },
+  "productos": [
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Unlaguer",
+        "cantidad": 330,
+        "precio": 320
+      }
+    },
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Cabeza de Lobo",
+        "cantidad": 355,
+        "precio": 300
+      }
+    },
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "3 Horses",
+        "cantidad": 330,
+        "precio": 330
+      }
+    },
+    {
+      "id_producto": "P002",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Capitán Cortez",
+        "cantidad": 965,
+        "precio": 1875
+      }
+    },
+    {
+      "id_producto": "P003",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Chanceler",
+        "cantidad": 1000,
+        "precio": 1875
+      }
+    },
+    {
+      "id_producto": "P003",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "John Mail",
+        "cantidad": 1000,
+        "precio": 1785
+      }
+    },
+    {
+      "id_producto": "P007",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Flor Salvaje",
+        "cantidad": 1000,
+        "precio": 2750
+      }
+    },
+    {
+      "id_producto": "P004",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Booms Boom",
+        "cantidad": 330,
+        "precio": 280
+      }
+    },
+    {
+      "id_producto": "P004",
+      "especificaciones": {
+        "tipo": "pomo",
+        "marca": "Ciego Montero",
+        "cantidad": 1500,
+        "precio": 750
+      }
+    },
+    {
+      "id_producto": "P029",
+      "especificaciones": {
+        "tipo": "pomo",
+        "marca": "Penacova",
+        "cantidad": 1500,
+        "precio": 390
+      }
+    },
+    {
+      "id_producto": "P008",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Cofrutos",
+        "cantidad": 1000,
+        "precio": 750
+      }
+    },
+    {
+      "id_producto": "P008",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Don Simon",
+        "cantidad": 200,
+        "precio": 280
+      }
+    },
+    {
+      "id_producto": "P008",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Bravo",
+        "cantidad": 200,
+        "precio": 225
+      }
+    },
+    {
+      "id_producto": "P010",
+      "especificaciones": {
+        "tipo": "salada",
+        "marca": "Salti Tacos",
+        "cantidad": 305,
+        "precio": 600
+      }
+    },
+    {
+      "id_producto": "P013",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Del Campo",
+        "cantidad": 2200,
+        "precio": 2330
+      }
+    },
+    {
+      "id_producto": "P025",
+      "especificaciones": {
+        "tipo": "colorado",
+        "marca": "Del Campo",
+        "cantidad": 454,
+        "precio": 910
+      }
+    },
+    {
+      "id_producto": "P025",
+      "especificaciones": {
+        "tipo": "blanco",
+        "marca": "Del Campo",
+        "cantidad": 454,
+        "precio": 970
+      }
+    },
+    {
+      "id_producto": "P015",
+      "especificaciones": {
+        "tipo": "spaguetti",
+        "marca": "Besler",
+        "cantidad": 500,
+        "precio": 380
+      }
+    },
+    {
+      "id_producto": "P015",
+      "especificaciones": {
+        "tipo": "spaguetti",
+        "marca": "Lucy",
+        "cantidad": 500,
+        "precio": 380
+      }
+    },
+    {
+      "id_producto": "P015",
+      "especificaciones": {
+        "tipo": "codito",
+        "marca": "Lucy",
+        "cantidad": 500,
+        "precio": 380
+      }
+    },
+    {
+      "id_producto": "P017",
+      "especificaciones": {
+        "tipo": "oliva",
+        "marca": "Ayala",
+        "cantidad": 1000,
+        "precio": 4225
+      }
+    },
+    {
+      "id_producto": "P018",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Safa",
+        "cantidad": 850,
+        "precio": 900
+      }
+    },
+    {
+      "id_producto": "P041",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Ayala",
+        "cantidad": 340,
+        "precio": 780
+      }
+    },
+    {
+      "id_producto": "P021",
+      "especificaciones": {
+        "tipo": null,
+        "marca": null,
+        "cantidad": 1000,
+        "precio": 200
+      }
+    },
+    {
+      "id_producto": "P022",
+      "especificaciones": {
+        "tipo": "blanca",
+        "marca": null,
+        "cantidad": 1000,
+        "precio": 850
+      }
+    },
+    {
+      "id_producto": "P026",
+      "especificaciones": {
+        "tipo": "trigo",
+        "marca": "Sinangil",
+        "cantidad": 1000,
+        "precio": 740
+      }
+    },
+    {
+      "id_producto": "P034",
+      "especificaciones": {
+        "tipo": "sazón",
+        "marca": "Maggi",
+        "cantidad": 180,
+        "precio": 1000
+      }
+    },
+    {
+      "id_producto": "P016",
+      "especificaciones": {
+        "tipo": "pechuga",
+        "marca": null,
+        "cantidad": 1000,
+        "precio": 3550
+      }
+    },
+    {
+      "id_producto": "P016",
+      "especificaciones": {
+        "tipo": "filete de pechuga",
+        "marca": null,
+        "cantidad": 2700,
+        "precio": 7290
+      }
+    },
+    {
+      "id_producto": "P027",
+      "especificaciones": {
+        "tipo": "pollo",
+        "marca": null,
+        "cantidad": 400,
+        "precio": 750
+      }
+    },
+    {
+      "id_producto": "P039",
+      "especificaciones": {
+        "tipo": "pollo",
+        "marca": null,
+        "cantidad": 1000,
+        "precio": 1200
+      }
+    },
+    {
+      "id_producto": "P030",
+      "especificaciones": {
+        "tipo": "olor",
+        "marca": "Joby",
+        "cantidad": 85,
+        "precio": 240
+      }
+    },
+    {
+      "id_producto": "P035",
+      "especificaciones": {
+        "tipo": "paquete",
+        "marca": "Nt",
+        "cantidad": null,
+        "precio": 2600
+      }
+    }
+  ]
+}

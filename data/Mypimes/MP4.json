@@ -1,220 +1,216 @@
 {
-   "id":"MP4",
-   "ubicación":
-   {
-    "municipio":"Centro Habana",
-    "coordenadas":"23.13508, -82.36434"
-   },
-   "productos":
-   [
-     {
-      "id_producto":"P001",
-      "especificaciones":{
-        "tipo":"lata",
-        "marca":"Unlaguer",
-        "cantidad":330,
-        "precio":260
+  "id": "MP4",
+  "ubicación": {
+    "municipio": "Centro Habana",
+    "coordenadas": "23.13508, -82.36434"
+  },
+  "productos": [
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Unlaguer",
+        "cantidad": 330,
+        "precio": 260
       }
-     },
-     {
-      "id_producto":"P001",
-      "especificaciones":{
-        "tipo":"lata",
-        "marca":"Moyoc",
-        "cantidad":330,
-        "precio":240
+    },
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Moyoc",
+        "cantidad": 330,
+        "precio": 240
       }
-     },
-     {
-      "id_producto":"P005",
-      "especificaciones":{
-        "tipo":"lata",
-        "marca":"LINX",
-        "cantidad":250,
-        "precio":280
+    },
+    {
+      "id_producto": "P005",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "LINX",
+        "cantidad": 250,
+        "precio": 280
       }
-     },
-     {
-      "id_producto":"P009",
-      "especificaciones":{
-        "tipo":"lata",
-        "marca":"Perla Negra",
-        "cantidad":355,
-        "precio":315
+    },
+    {
+      "id_producto": "P009",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Perla Negra",
+        "cantidad": 355,
+        "precio": 315
       }
-     },
-     {
-      "id_producto":"P009",
-      "especificaciones":{
-        "tipo":"lata",
-        "marca":"Sunday",
-        "cantidad":355,
-        "precio":280
+    },
+    {
+      "id_producto": "P009",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Sunday",
+        "cantidad": 355,
+        "precio": 280
       }
-     },
-     {
-      "id_producto":"P029",
-      "especificaciones":{
-        "tipo":"pomo",
-        "marca":"Ciego Montero",
-        "cantidad":500,
-        "precio":150
+    },
+    {
+      "id_producto": "P029",
+      "especificaciones": {
+        "tipo": "pomo",
+        "marca": "Ciego Montero",
+        "cantidad": 500,
+        "precio": 150
       }
-     },
-     {
-      "id_producto":"P029",
-      "especificaciones":{
-        "tipo":"pomo",
-        "marca":"Ciego Montero",
-        "cantidad":1500,
-        "precio":200
+    },
+    {
+      "id_producto": "P029",
+      "especificaciones": {
+        "tipo": "pomo",
+        "marca": "Ciego Montero",
+        "cantidad": 1500,
+        "precio": 200
       }
-     },
-     {
-      "id_producto":"P033",
-      "especificaciones":{
-        "tipo":"botella",
-        "marca":"Ninnoff",
-        "cantidad":300,
-        "precio":585
+    },
+    {
+      "id_producto": "P033",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Ninnoff",
+        "cantidad": 300,
+        "precio": 585
       }
-     },
-     {
-      "id_producto":"P003",
-      "especificaciones":{
-        "tipo":"botella",
-        "marca":"Sir Albin",
-        "cantidad":300,
-        "precio":585
+    },
+    {
+      "id_producto": "P003",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Sir Albin",
+        "cantidad": 300,
+        "precio": 585
       }
-     },
-     {
-      "id_producto":"P003",
-      "especificaciones":{
-        "tipo":"botella",
-        "marca":"Glen Silver`S",
-        "cantidad":1000,
-        "precio":2700
+    },
+    {
+      "id_producto": "P003",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Glen Silver`S",
+        "cantidad": 1000,
+        "precio": 2700
       }
-     },
-     {
-      "id_producto":"P040",
-      "especificaciones":{
-        "tipo":"pomo",
-        "marca":"El Delicioso",
-        "cantidad":1000,
-        "precio":360
+    },
+    {
+      "id_producto": "P040",
+      "especificaciones": {
+        "tipo": "pomo",
+        "marca": "El Delicioso",
+        "cantidad": 1000,
+        "precio": 360
       }
-     },
-     {
-      "id_producto":"P024",
-      "especificaciones":{
-        "tipo":"none",
-        "marca":"Dufiltro",
-        "cantidad":250,
-        "precio":1670
+    },
+    {
+      "id_producto": "P024",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Dufiltro",
+        "cantidad": 250,
+        "precio": 1670
       }
-     },
-     {
-      "id_producto":"P019",
-      "especificaciones":{
-        "tipo":"none",
-        "marca":"Mayo+",
-        "cantidad":480,
-        "precio":1000
+    },
+    {
+      "id_producto": "P019",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Mayo+",
+        "cantidad": 480,
+        "precio": 1000
       }
-     },
-     {
-      "id_producto":"P015",
-      "especificaciones":{
-        "tipo":"spaguetti",
-        "marca":"ANI Makarna",
-        "cantidad":500,
-        "precio":380
+    },
+    {
+      "id_producto": "P015",
+      "especificaciones": {
+        "tipo": "spaguetti",
+        "marca": "ANI Makarna",
+        "cantidad": 500,
+        "precio": 380
       }
-     },
-     {
-      "id_producto":"P015",
-      "especificaciones":{
-        "tipo":"codito",
-        "marca":"Casarecce",
-        "cantidad":500,
-        "precio":380
+    },
+    {
+      "id_producto": "P015",
+      "especificaciones": {
+        "tipo": "codito",
+        "marca": "Casarecce",
+        "cantidad": 500,
+        "precio": 380
       }
-     },
-     {
-      "id_producto":"P026",
-      "especificaciones":{
-        "tipo":"trigo",
-        "marca":"Qbanito",
-        "cantidad":1000,
-        "precio":670
+    },
+    {
+      "id_producto": "P026",
+      "especificaciones": {
+        "tipo": "trigo",
+        "marca": "Qbanito",
+        "cantidad": 1000,
+        "precio": 670
       }
-     },
-     {
-      "id_producto":"P026",
-      "especificaciones":{
-        "tipo":"trigo",
-        "marca":"Fresko",
-        "cantidad":1000,
-        "precio":670
+    },
+    {
+      "id_producto": "P026",
+      "especificaciones": {
+        "tipo": "trigo",
+        "marca": "Fresko",
+        "cantidad": 1000,
+        "precio": 670
       }
-     },
-     {
-      "id_producto":"P016",
-      "especificaciones":{
-        "tipo":"entero",
-        "marca":"none",
-        "cantidad":"none",
-        "precio":1950
+    },
+    {
+      "id_producto": "P016",
+      "especificaciones": {
+        "tipo": "entero",
+        "marca": null,
+        "cantidad": null,
+        "precio": 1950
       }
-     },
-     {
-      "id_producto":"P016",
-      "especificaciones":{
-        "tipo":"pechuga",
-        "marca":"none",
-        "cantidad":2000,
-        "precio":5000
+    },
+    {
+      "id_producto": "P016",
+      "especificaciones": {
+        "tipo": "pechuga",
+        "marca": null,
+        "cantidad": 2000,
+        "precio": 5000
       }
-     },
-     {
-      "id_producto":"P039",
-      "especificaciones":{
-        "tipo":"pollo",
-        "marca":"none",
-        "cantidad":1000,
-        "precio":780
+    },
+    {
+      "id_producto": "P039",
+      "especificaciones": {
+        "tipo": "pollo",
+        "marca": null,
+        "cantidad": 1000,
+        "precio": 780
       }
-     },
-     {
-      "id_producto":"P027",
-      "especificaciones":{
-        "tipo":"pollo",
-        "marca":"none",
-        "cantidad":1000,
-        "precio":400
+    },
+    {
+      "id_producto": "P027",
+      "especificaciones": {
+        "tipo": "pollo",
+        "marca": null,
+        "cantidad": 1000,
+        "precio": 400
       }
-     },
-     {
-      "id_producto":"P035",
-      "especificaciones":{
-        "tipo":"paquete",
-        "marca":"La Excelencia",
-        "cantidad":"none",
-        "precio":600
+    },
+    {
+      "id_producto": "P035",
+      "especificaciones": {
+        "tipo": "paquete",
+        "marca": "La Excelencia",
+        "cantidad": null,
+        "precio": 600
       }
-     },
-     {
-      "id_producto":"P038",
-      "especificaciones":{
-        "tipo":"none",
-        "marca":"Clogurde",
-        "cantidad":80,
-        "precio":760
+    },
+    {
+      "id_producto": "P038",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Clogurde",
+        "cantidad": 80,
+        "precio": 760
       }
-     }
-   
-    ]
-
+    }
+  ]
 }

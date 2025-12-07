@@ -1,0 +1,360 @@
+{
+  "id": "MP27",
+  "ubicación": {
+    "municipio": "Centro Habana",
+    "coordenadas": "23.13865, -82.37853"
+  },
+  "productos": [
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Unlaguer",
+        "cantidad": 330,
+        "precio": 280
+      }
+    },
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "La Fría",
+        "cantidad": 330,
+        "precio": 280
+      }
+    },
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Oberbaum",
+        "cantidad": 330,
+        "precio": 270
+      }
+    },
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Super Bock",
+        "cantidad": 330,
+        "precio": 280
+      }
+    },
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Cristal",
+        "cantidad": 355,
+        "precio": 400
+      }
+    },
+    {
+      "id_producto": "P002",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Havana Club Reserva",
+        "cantidad": 1000,
+        "precio": 2800
+      }
+    },
+    {
+      "id_producto": "P002",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Havana Club Ritual",
+        "cantidad": 700,
+        "precio": 2660
+      }
+    },
+    {
+      "id_producto": "P004",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Floridita",
+        "cantidad": 330,
+        "precio": 270
+      }
+    },
+    {
+      "id_producto": "P004",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Pepsi",
+        "cantidad": 355,
+        "precio": 355
+      }
+    },
+    {
+      "id_producto": "P004",
+      "especificaciones": {
+        "tipo": "pomo",
+        "marca": "Ciego Montero",
+        "cantidad": 1500,
+        "precio": 680
+      }
+    },
+    {
+      "id_producto": "P005",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Go+",
+        "cantidad": 250,
+        "precio": 280
+      }
+    },
+    {
+      "id_producto": "P005",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "XL",
+        "cantidad": 250,
+        "precio": 300
+      }
+    },
+    {
+      "id_producto": "P005",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Vod-K",
+        "cantidad": 250,
+        "precio": 340
+      }
+    },
+    {
+      "id_producto": "P008",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Goliath",
+        "cantidad": 950,
+        "precio": 800
+      }
+    },
+    {
+      "id_producto": "P008",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Del Prado",
+        "cantidad": 200,
+        "precio": 240
+      }
+    },
+    {
+      "id_producto": "P009",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Turbo Malta",
+        "cantidad": 355,
+        "precio": 300
+      }
+    },
+    {
+      "id_producto": "P029",
+      "especificaciones": {
+        "tipo": "pomo",
+        "marca": "Cool Haaven",
+        "cantidad": 500,
+        "precio": 180
+      }
+    },
+    {
+      "id_producto": "P010",
+      "especificaciones": {
+        "tipo": "salada",
+        "marca": "Goya Saltines",
+        "cantidad": 220,
+        "precio": 800
+      }
+    },
+    {
+      "id_producto": "P010",
+      "especificaciones": {
+        "tipo": "salada",
+        "marca": "Goya Doradas",
+        "cantidad": 294,
+        "precio": 1320
+      }
+    },
+    {
+      "id_producto": "P010",
+      "especificaciones": {
+        "tipo": "dulce",
+        "marca": "Cuétara Napolitanas",
+        "cantidad": 426,
+        "precio": 1480
+      }
+    },
+    {
+      "id_producto": "P010",
+      "especificaciones": {
+        "tipo": "dulce",
+        "marca": "Cuétara María",
+        "cantidad": 800,
+        "precio": 1780
+      }
+    },
+    {
+      "id_producto": "P011",
+      "especificaciones": {
+        "tipo": "barra de chocolate",
+        "marca": "Milano",
+        "cantidad": 62,
+        "precio": 210
+      }
+    },
+    {
+      "id_producto": "P012",
+      "especificaciones": {
+        "tipo": "suave",
+        "marca": "Englishman",
+        "cantidad": null,
+        "precio": 560
+      }
+    },
+    {
+      "id_producto": "P012",
+      "especificaciones": {
+        "tipo": "suave",
+        "marca": "Carnival",
+        "cantidad": null,
+        "precio": 600
+      }
+    },
+    {
+      "id_producto": "P013",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Extremo Sabor",
+        "cantidad": 1000,
+        "precio": 810
+      }
+    },
+    {
+      "id_producto": "P025",
+      "especificaciones": {
+        "tipo": "negro",
+        "marca": "Del Campo",
+        "cantidad": 454,
+        "precio": 780
+      }
+    },
+    {
+      "id_producto": "P025",
+      "especificaciones": {
+        "tipo": "garbanzo",
+        "marca": "Goya",
+        "cantidad": 454,
+        "precio": 1080
+      }
+    },
+    {
+      "id_producto": "P014",
+      "especificaciones": {
+        "tipo": "papas fritas",
+        "marca": "Pringles",
+        "cantidad": 150,
+        "precio": 1780
+      }
+    },
+    {
+      "id_producto": "P014",
+      "especificaciones": {
+        "tipo": "papas fritas",
+        "marca": "Totas",
+        "cantidad": 130,
+        "precio": 1290
+      }
+    },
+    {
+      "id_producto": "P015",
+      "especificaciones": {
+        "tipo": "spaguetti",
+        "marca": "Ridel",
+        "cantidad": 500,
+        "precio": 390
+      }
+    },
+    {
+      "id_producto": "P018",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Gourmet",
+        "cantidad": 390,
+        "precio": 870
+      }
+    },
+    {
+      "id_producto": "P018",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Val",
+        "cantidad": 140,
+        "precio": 220
+      }
+    },
+    {
+      "id_producto": "P021",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Cuor Di Mare",
+        "cantidad": 1000,
+        "precio": 800
+      }
+    },
+    {
+      "id_producto": "P023",
+      "especificaciones": {
+        "tipo": "líquida",
+        "marca": "Vima",
+        "cantidad": 1000,
+        "precio": 1200
+      }
+    },
+    {
+      "id_producto": "P024",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "La Llave",
+        "cantidad": 284,
+        "precio": 3500
+      }
+    },
+    {
+      "id_producto": "P026",
+      "especificaciones": {
+        "tipo": "trigo",
+        "marca": "Molini",
+        "cantidad": 1000,
+        "precio": 790
+      }
+    },
+    {
+      "id_producto": "P040",
+      "especificaciones": {
+        "tipo": "vino blanco",
+        "marca": "Varvello",
+        "cantidad": 1000,
+        "precio": 1720
+      }
+    },
+    {
+      "id_producto": "P043",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "La Granjera",
+        "cantidad": 390,
+        "precio": 700
+      }
+    },
+    {
+      "id_producto": "P035",
+      "especificaciones": {
+        "tipo": "paquete",
+        "marca": "Encanto",
+        "cantidad": null,
+        "precio": 930
+      }
+    }
+  ]
+}

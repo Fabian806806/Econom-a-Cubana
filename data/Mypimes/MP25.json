@@ -1,0 +1,459 @@
+{
+  "id": "MP25",
+  "ubicación": {
+    "municipio": "Centro Habana",
+    "coordenadas": "23.14199, -82.37652"
+  },
+  "productos": [
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Heineken",
+        "cantidad": 330,
+        "precio": 500
+      }
+    },
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Presidente",
+        "cantidad": 355,
+        "precio": 260
+      }
+    },
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "BEER",
+        "cantidad": 330,
+        "precio": 250
+      }
+    },
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Eichbaum Pilsener",
+        "cantidad": 330,
+        "precio": 240
+      }
+    },
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Unlaguer",
+        "cantidad": 330,
+        "precio": 250
+      }
+    },
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Sagres",
+        "cantidad": 330,
+        "precio": 240
+      }
+    },
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Cristal",
+        "cantidad": 355,
+        "precio": 355
+      }
+    },
+    {
+      "id_producto": "P002",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Havana Club Añejo 3 Años",
+        "cantidad": 700,
+        "precio": 3000
+      }
+    },
+    {
+      "id_producto": "P003",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Sir Albin",
+        "cantidad": 300,
+        "precio": 750
+      }
+    },
+    {
+      "id_producto": "P003",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Reserve 7",
+        "cantidad": 750,
+        "precio": 1500
+      }
+    },
+    {
+      "id_producto": "P003",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Apache",
+        "cantidad": 1000,
+        "precio": 1300
+      }
+    },
+    {
+      "id_producto": "P003",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Howells",
+        "cantidad": 1000,
+        "precio": 1250
+      }
+    },
+    {
+      "id_producto": "P003",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Chanceler",
+        "cantidad": 1000,
+        "precio": 2200
+      }
+    },
+    {
+      "id_producto": "P003",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Chivas Regal 12 Años",
+        "cantidad": 750,
+        "precio": 13000
+      }
+    },
+    {
+      "id_producto": "P003",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Jhonny Walker Black Label",
+        "cantidad": 1000,
+        "precio": 15500
+      }
+    },
+    {
+      "id_producto": "P033",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Vavilov",
+        "cantidad": 1000,
+        "precio": 1450
+      }
+    },
+    {
+      "id_producto": "P033",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Tabarish",
+        "cantidad": 1000,
+        "precio": 1400
+      }
+    },
+    {
+      "id_producto": "P004",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Pepsi",
+        "cantidad": 355,
+        "precio": 300
+      }
+    },
+    {
+      "id_producto": "P004",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Santa",
+        "cantidad": 330,
+        "precio": 250
+      }
+    },
+    {
+      "id_producto": "P005",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Black Devil",
+        "cantidad": 250,
+        "precio": 270
+      }
+    },
+    {
+      "id_producto": "P005",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Shaka",
+        "cantidad": 250,
+        "precio": 360
+      }
+    },
+    {
+      "id_producto": "P008",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Rayan",
+        "cantidad": 200,
+        "precio": 180
+      }
+    },
+    {
+      "id_producto": "P009",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Perla Negra",
+        "cantidad": 355,
+        "precio": 300
+      }
+    },
+    {
+      "id_producto": "P029",
+      "especificaciones": {
+        "tipo": "pomo",
+        "marca": "Ciego Montero",
+        "cantidad": 500,
+        "precio": 200
+      }
+    },
+    {
+      "id_producto": "P010",
+      "especificaciones": {
+        "tipo": "salada",
+        "marca": "Soda Gourmet",
+        "cantidad": 250,
+        "precio": 620
+      }
+    },
+    {
+      "id_producto": "P010",
+      "especificaciones": {
+        "tipo": "dulce",
+        "marca": "Blackout",
+        "cantidad": 42,
+        "precio": 140
+      }
+    },
+    {
+      "id_producto": "P010",
+      "especificaciones": {
+        "tipo": "dulce",
+        "marca": "Escolar",
+        "cantidad": 22,
+        "precio": 70
+      }
+    },
+    {
+      "id_producto": "P010",
+      "especificaciones": {
+        "tipo": "dulce",
+        "marca": "Twinnies",
+        "cantidad": 23,
+        "precio": 70
+      }
+    },
+    {
+      "id_producto": "P013",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Mencho",
+        "cantidad": 1000,
+        "precio": 700
+      }
+    },
+    {
+      "id_producto": "P014",
+      "especificaciones": {
+        "tipo": "papas fritas",
+        "marca": "Melan`s",
+        "cantidad": 90,
+        "precio": 800
+      }
+    },
+    {
+      "id_producto": "P014",
+      "especificaciones": {
+        "tipo": "papas fritas",
+        "marca": "Frit Ravich",
+        "cantidad": 125,
+        "precio": 1500
+      }
+    },
+    {
+      "id_producto": "P015",
+      "especificaciones": {
+        "tipo": "spaguetti",
+        "marca": "Ovella",
+        "cantidad": 500,
+        "precio": 355
+      }
+    },
+    {
+      "id_producto": "P018",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Victoria Garden",
+        "cantidad": 400,
+        "precio": 500
+      }
+    },
+    {
+      "id_producto": "P018",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Vima",
+        "cantidad": 400,
+        "precio": 700
+      }
+    },
+    {
+      "id_producto": "P018",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Marwa",
+        "cantidad": 400,
+        "precio": 500
+      }
+    },
+    {
+      "id_producto": "P018",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Holland Park",
+        "cantidad": 400,
+        "precio": 600
+      }
+    },
+    {
+      "id_producto": "P018",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Oderich",
+        "cantidad": 3100,
+        "precio": 4000
+      }
+    },
+    {
+      "id_producto": "P041",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Kurtz",
+        "cantidad": 680,
+        "precio": 1250
+      }
+    },
+    {
+      "id_producto": "P042",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Great Value",
+        "cantidad": 567,
+        "precio": 1200
+      }
+    },
+    {
+      "id_producto": "P021",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Golden Selection",
+        "cantidad": 400,
+        "precio": 250
+      }
+    },
+    {
+      "id_producto": "P022",
+      "especificaciones": {
+        "tipo": "blanca",
+        "marca": "Fresko",
+        "cantidad": 1000,
+        "precio": 750
+      }
+    },
+    {
+      "id_producto": "P034",
+      "especificaciones": {
+        "tipo": "sazón",
+        "marca": "Badia",
+        "cantidad": 255,
+        "precio": 2200
+      }
+    },
+    {
+      "id_producto": "P034",
+      "especificaciones": {
+        "tipo": "adobo",
+        "marca": "Badia",
+        "cantidad": 361,
+        "precio": 1700
+      }
+    },
+    {
+      "id_producto": "P016",
+      "especificaciones": {
+        "tipo": "pechuga",
+        "marca": null,
+        "cantidad": 2000,
+        "precio": 5000
+      }
+    },
+    {
+      "id_producto": "P027",
+      "especificaciones": {
+        "tipo": "res",
+        "marca": null,
+        "cantidad": 1000,
+        "precio": 1700
+      }
+    },
+    {
+      "id_producto": "P027",
+      "especificaciones": {
+        "tipo": "pollo",
+        "marca": null,
+        "cantidad": 1000,
+        "precio": 500
+      }
+    },
+    {
+      "id_producto": "P037",
+      "especificaciones": {
+        "tipo": "gouda",
+        "marca": null,
+        "cantidad": 1000,
+        "precio": 2000
+      }
+    },
+    {
+      "id_producto": "P032",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Power Stick",
+        "cantidad": 56,
+        "precio": 1500
+      }
+    },
+    {
+      "id_producto": "P035",
+      "especificaciones": {
+        "tipo": "paquete",
+        "marca": "Pro Sito",
+        "cantidad": null,
+        "precio": 750
+      }
+    },
+    {
+      "id_producto": "P031",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Pantene",
+        "cantidad": 375,
+        "precio": 4000
+      }
+    }
+  ]
+}

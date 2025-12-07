@@ -1,202 +1,198 @@
 {
-   "id":"MP2",
-   "ubicación":
-   {
-    "municipio":"Centro Habana",
-    "coordenadas":"23.1346, -82.36331"
-   },
-   "productos":
-   [
-     { 
-      "id_producto":"P001",
-      "especificaciones":{
-        "tipo":"lata",
-        "marca":"Luxus",
-        "cantidad":330,
-        "precio":250
+  "id": "MP2",
+  "ubicación": {
+    "municipio": "Centro Habana",
+    "coordenadas": "23.1346, -82.36331"
+  },
+  "productos": [
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Luxus",
+        "cantidad": 330,
+        "precio": 250
       }
-     },
-     { 
-      "id_producto":"P001",
-      "especificaciones":{
-        "tipo":"lata",
-        "marca":"Shekels",
-        "cantidad":330,
-        "precio":250
+    },
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Shekels",
+        "cantidad": 330,
+        "precio": 250
       }
-     },
-     { 
-      "id_producto":"P003",
-      "especificaciones":{
-        "tipo":"botella",
-        "marca":"Noble Vox",
-        "cantidad":200,
-        "precio":300
+    },
+    {
+      "id_producto": "P003",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Noble Vox",
+        "cantidad": 200,
+        "precio": 300
       }
-     },
-     { 
-      "id_producto":"P005",
-      "especificaciones":{
-        "tipo":"lata",
-        "marca":"TsnT",
-        "cantidad":250,
-        "precio":280
+    },
+    {
+      "id_producto": "P005",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "TsnT",
+        "cantidad": 250,
+        "precio": 280
       }
-     },
-     { 
-      "id_producto":"P004",
-      "especificaciones":{
-        "tipo":"pomo",
-        "marca":"Ciego Montero",
-        "cantidad":1500,
-        "precio":600
+    },
+    {
+      "id_producto": "P004",
+      "especificaciones": {
+        "tipo": "pomo",
+        "marca": "Ciego Montero",
+        "cantidad": 1500,
+        "precio": 600
       }
-     },
-     { 
-      "id_producto":"P008",
-      "especificaciones":{
-        "tipo":"none",
-        "marca":"One Star",
-        "cantidad":200,
-        "precio":125
+    },
+    {
+      "id_producto": "P008",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "One Star",
+        "cantidad": 200,
+        "precio": 125
       }
-     },
-     { 
-      "id_producto":"P017",
-      "especificaciones":{
-        "tipo":"girasol",
-        "marca":"Vima",
-        "cantidad":1000,
-        "precio":990
+    },
+    {
+      "id_producto": "P017",
+      "especificaciones": {
+        "tipo": "girasol",
+        "marca": "Vima",
+        "cantidad": 1000,
+        "precio": 990
       }
-     },
-     { 
-      "id_producto":"P040",
-      "especificaciones":{
-        "tipo":"pomo",
-        "marca":"none",
-        "cantidad":1000,
-        "precio":450
+    },
+    {
+      "id_producto": "P040",
+      "especificaciones": {
+        "tipo": "pomo",
+        "marca": null,
+        "cantidad": 1000,
+        "precio": 450
       }
-     },
-     { 
-      "id_producto":"P018",
-      "especificaciones":{
-        "tipo":"none",
-        "marca":"Virshaan",
-        "cantidad":400,
-        "precio":450
+    },
+    {
+      "id_producto": "P018",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Virshaan",
+        "cantidad": 400,
+        "precio": 450
       }
-     },
-     { 
-      "id_producto":"P029",
-      "especificaciones":{
-        "tipo":"pomo",
-        "marca":"Kirkland",
-        "cantidad":500,
-        "precio":150
+    },
+    {
+      "id_producto": "P029",
+      "especificaciones": {
+        "tipo": "pomo",
+        "marca": "Kirkland",
+        "cantidad": 500,
+        "precio": 150
       }
-     },
-     { 
-      "id_producto":"P024",
-      "especificaciones":{
-        "tipo":"none",
-        "marca":"Dufiltro",
-        "cantidad":250,
-        "precio":1500
+    },
+    {
+      "id_producto": "P024",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Dufiltro",
+        "cantidad": 250,
+        "precio": 1500
       }
-     },
-     { 
-      "id_producto":"P024",
-      "especificaciones":{
-        "tipo":"none",
-        "marca":"Beo Hive",
-        "cantidad":250,
-        "precio":1500
+    },
+    {
+      "id_producto": "P024",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Beo Hive",
+        "cantidad": 250,
+        "precio": 1500
       }
-     },
-     { 
-      "id_producto":"P019",
-      "especificaciones":{
-        "tipo":"none",
-        "marca":"Kris Sachet",
-        "cantidad":225,
-        "precio":450
+    },
+    {
+      "id_producto": "P019",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Kris Sachet",
+        "cantidad": 225,
+        "precio": 450
       }
-     },
-     { 
-      "id_producto":"P018",
-      "especificaciones":{
-        "tipo":"none",
-        "marca":"Kris Sachet",
-        "cantidad":140,
-        "precio":250
+    },
+    {
+      "id_producto": "P018",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Kris Sachet",
+        "cantidad": 140,
+        "precio": 250
       }
-     },
-     { 
-      "id_producto":"P028",
-      "especificaciones":{
-        "tipo":"none",
-        "marca":"Wafers",
-        "cantidad":100,
-        "precio":130
+    },
+    {
+      "id_producto": "P028",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Wafers",
+        "cantidad": 100,
+        "precio": 130
       }
-     },
-     { 
-      "id_producto":"P010",
-      "especificaciones":{
-        "tipo":"dulce",
-        "marca":"Dulce",
-        "cantidad":130,
-        "precio":250
+    },
+    {
+      "id_producto": "P010",
+      "especificaciones": {
+        "tipo": "dulce",
+        "marca": "Dulce",
+        "cantidad": 130,
+        "precio": 250
       }
-     },
-     { 
-      "id_producto":"P010",
-      "especificaciones":{
-        "tipo":"dulce",
-        "marca":"Smile Biscuits",
-        "cantidad":50,
-        "precio":130
+    },
+    {
+      "id_producto": "P010",
+      "especificaciones": {
+        "tipo": "dulce",
+        "marca": "Smile Biscuits",
+        "cantidad": 50,
+        "precio": 130
       }
-     },
-     { 
-      "id_producto":"P010",
-      "especificaciones":{
-        "tipo":"salada",
-        "marca":"Salti Bicks",
-        "cantidad":600,
-        "precio":900
+    },
+    {
+      "id_producto": "P010",
+      "especificaciones": {
+        "tipo": "salada",
+        "marca": "Salti Bicks",
+        "cantidad": 600,
+        "precio": 900
       }
-     },
-     { 
-      "id_producto":"P016",
-      "especificaciones":{
-        "tipo":"pechuga",
-        "marca":"none",
-        "cantidad":2000,
-        "precio":4100
+    },
+    {
+      "id_producto": "P016",
+      "especificaciones": {
+        "tipo": "pechuga",
+        "marca": null,
+        "cantidad": 2000,
+        "precio": 4100
       }
-     },
-     { 
-      "id_producto":"P039",
-      "especificaciones":{
-        "tipo":"pollo",
-        "marca":"none",
-        "cantidad":1000,
-        "precio":850
+    },
+    {
+      "id_producto": "P039",
+      "especificaciones": {
+        "tipo": "pollo",
+        "marca": null,
+        "cantidad": 1000,
+        "precio": 850
       }
-     },
-     { 
-      "id_producto":"P020",
-      "especificaciones":{
-        "tipo":"cartón",
-        "marca":"none",
-        "cantidad":"none",
-        "precio":2600
+    },
+    {
+      "id_producto": "P020",
+      "especificaciones": {
+        "tipo": "cartón",
+        "marca": null,
+        "cantidad": null,
+        "precio": 2600
       }
-     }
-  
-    ]
-    
+    }
+  ]
 }

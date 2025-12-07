@@ -52,7 +52,7 @@
  {
   "id":"P011",
   "nombre":"Dulce",
-  "unidad":"none"
+  "unidad":"gr"
  },
  {
   "id":"P012",
@@ -86,7 +86,7 @@
  },
  {
   "id":"P018",
-  "nombre":"Pasta de tomate",
+  "nombre":"Pasta/salsa de tomate",
   "unidad":"gr"
  },
  {
@@ -111,8 +111,8 @@
  },
  {
   "id":"P023",
-  "nombre":"Leche en polvo",
-  "unidad":"gr"
+  "nombre":"Leche",
+  "unidad":{"líquida":"ml","polvo":"gr"}
  },
  {
   "id":"P024",
@@ -157,7 +157,7 @@
  {
   "id":"P032",
   "nombre":"Deshodorante",
-  "unidad":"ml"
+  "unidad":"gr"
  },
  {
   "id":"P033",
@@ -202,23 +202,20 @@
  {
   "id":"P041",
   "nombre":"Kétchup",
-  "unidad":"ml"
+  "unidad":"gr"
  },
  {
   "id":"P042",
   "nombre":"Mostaza",
-  "unidad":"ml"
+  "unidad":"gr"
  },
  {
   "id":"P043",
   "nombre":"Leche condensada",
-  "unidad":"ml"
- },
- {
-  "id":"P044",
-  "nombre":"Frutos secos",
   "unidad":"gr"
  }
+ 
+ 
  
  
 

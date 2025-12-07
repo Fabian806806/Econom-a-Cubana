@@ -1,0 +1,216 @@
+{
+  "id": "MP28",
+  "ubicación": {
+    "municipio": "Centro Habana",
+    "coordenadas": "23.13865, -82.37854"
+  },
+  "productos": [
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Sagres",
+        "cantidad": 330,
+        "precio": 230
+      }
+    },
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Eichbaum Pilsener",
+        "cantidad": 330,
+        "precio": 220
+      }
+    },
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Cristal",
+        "cantidad": 355,
+        "precio": 320
+      }
+    },
+    {
+      "id_producto": "P003",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Milner",
+        "cantidad": 375,
+        "precio": 820
+      }
+    },
+    {
+      "id_producto": "P003",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Old Star",
+        "cantidad": 1000,
+        "precio": 1600
+      }
+    },
+    {
+      "id_producto": "P003",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Chanceler",
+        "cantidad": 1000,
+        "precio": 1500
+      }
+    },
+    {
+      "id_producto": "P004",
+      "especificaciones": {
+        "tipo": "pomo",
+        "marca": "Fresko",
+        "cantidad": 330,
+        "precio": 150
+      }
+    },
+    {
+      "id_producto": "P008",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Goliath",
+        "cantidad": 950,
+        "precio": 800
+      }
+    },
+    {
+      "id_producto": "P009",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Perla Negra",
+        "cantidad": 355,
+        "precio": 260
+      }
+    },
+    {
+      "id_producto": "P029",
+      "especificaciones": {
+        "tipo": "pomo",
+        "marca": "Ciego Montero",
+        "cantidad": 500,
+        "precio": 160
+      }
+    },
+    {
+      "id_producto": "P010",
+      "especificaciones": {
+        "tipo": "salada",
+        "marca": "Crokantinas",
+        "cantidad": 577,
+        "precio": 1400
+      }
+    },
+    {
+      "id_producto": "P010",
+      "especificaciones": {
+        "tipo": "dulce",
+        "marca": "L`amore",
+        "cantidad": 150,
+        "precio": 380
+      }
+    },
+    {
+      "id_producto": "P010",
+      "especificaciones": {
+        "tipo": "dulce",
+        "marca": "Porleo",
+        "cantidad": 56,
+        "precio": 165
+      }
+    },
+    {
+      "id_producto": "P014",
+      "especificaciones": {
+        "tipo": "papas fritas",
+        "marca": "Frit Ravich",
+        "cantidad": 160,
+        "precio": 1300
+      }
+    },
+    {
+      "id_producto": "P036",
+      "especificaciones": {
+        "tipo": "suave",
+        "marca": null,
+        "cantidad": null,
+        "precio": 250
+      }
+    },
+    {
+      "id_producto": "P022",
+      "especificaciones": {
+        "tipo": "blanca",
+        "marca": "Fresko",
+        "cantidad": 1000,
+        "precio": 850
+      }
+    },
+    {
+      "id_producto": "P018",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Vima",
+        "cantidad": 400,
+        "precio": 650
+      }
+    },
+    {
+      "id_producto": "P019",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Nezka",
+        "cantidad": 480,
+        "precio": 1250
+      }
+    },
+    {
+      "id_producto": "P041",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Aldaketa",
+        "cantidad": 300,
+        "precio": 800
+      }
+    },
+    {
+      "id_producto": "P042",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Aldaketa",
+        "cantidad": 300,
+        "precio": 800
+      }
+    },
+    {
+      "id_producto": "P034",
+      "especificaciones": {
+        "tipo": "adobo",
+        "marca": "Goya",
+        "cantidad": 340,
+        "precio": 3000
+      }
+    },
+    {
+      "id_producto": "P040",
+      "especificaciones": {
+        "tipo": "ambar",
+        "marca": "Deleite",
+        "cantidad": 1000,
+        "precio": 600
+      }
+    },
+    {
+      "id_producto": "P038",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Colgate",
+        "cantidad": 100,
+        "precio": 2000
+      }
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "id": "MP22",
+  "ubicación": {
+    "municipio": "Centro Habana",
+    "coordenadas": "23.13939, -82.37494"
+  },
+  "productos": [
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Hollandia",
+        "cantidad": 330,
+        "precio": 250
+      }
+    },
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Eichbaum Pilsener",
+        "cantidad": 330,
+        "precio": 210
+      }
+    },
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Lander Brau",
+        "cantidad": 330,
+        "precio": 230
+      }
+    },
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Unlaguer",
+        "cantidad": 330,
+        "precio": 250
+      }
+    },
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Cristal",
+        "cantidad": 355,
+        "precio": 355
+      }
+    },
+    {
+      "id_producto": "P002",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Havana Club Añejo 7 Años",
+        "cantidad": 700,
+        "precio": 5000
+      }
+    },
+    {
+      "id_producto": "P002",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Silver Dry",
+        "cantidad": 200,
+        "precio": 355
+      }
+    },
+    {
+      "id_producto": "P003",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Sir Albin",
+        "cantidad": 300,
+        "precio": 600
+      }
+    },
+    {
+      "id_producto": "P007",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Tequilero",
+        "cantidad": 300,
+        "precio": 600
+      }
+    },
+    {
+      "id_producto": "P033",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Ninnoff",
+        "cantidad": 300,
+        "precio": 600
+      }
+    },
+    {
+      "id_producto": "P033",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Vavilov",
+        "cantidad": 1000,
+        "precio": 1800
+      }
+    },
+    {
+      "id_producto": "P004",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Santa",
+        "cantidad": 330,
+        "precio": 240
+      }
+    },
+    {
+      "id_producto": "P004",
+      "especificaciones": {
+        "tipo": "pomo",
+        "marca": "Ciego Montero",
+        "cantidad": 1500,
+        "precio": 650
+      }
+    },
+    {
+      "id_producto": "P005",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Tigon",
+        "cantidad": 250,
+        "precio": 320
+      }
+    },
+    {
+      "id_producto": "P005",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Vod-K",
+        "cantidad": 250,
+        "precio": 355
+      }
+    },
+    {
+      "id_producto": "P008",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Badelli",
+        "cantidad": 200,
+        "precio": 180
+      }
+    },
+    {
+      "id_producto": "P029",
+      "especificaciones": {
+        "tipo": "pomo",
+        "marca": "Ciego Montero",
+        "cantidad": 500,
+        "precio": 150
+      }
+    },
+    {
+      "id_producto": "P029",
+      "especificaciones": {
+        "tipo": "pomo",
+        "marca": "Ciego Montero",
+        "cantidad": 1500,
+        "precio": 250
+      }
+    },
+    {
+      "id_producto": "P010",
+      "especificaciones": {
+        "tipo": "dulce",
+        "marca": "Blackout",
+        "cantidad": 42,
+        "precio": 140
+      }
+    },
+    {
+      "id_producto": "P010",
+      "especificaciones": {
+        "tipo": "dulce",
+        "marca": "Doble Deleite",
+        "cantidad": 42,
+        "precio": 120
+      }
+    },
+    {
+      "id_producto": "P014",
+      "especificaciones": {
+        "tipo": "papitas fritas",
+        "marca": "Lays",
+        "cantidad": 28,
+        "precio": 300
+      }
+    },
+    {
+      "id_producto": "P036",
+      "especificaciones": {
+        "tipo": "suave",
+        "marca": null,
+        "cantidad": null,
+        "precio": 380
+      }
+    },
+    {
+      "id_producto": "P015",
+      "especificaciones": {
+        "tipo": "spaguetti",
+        "marca": "Doga",
+        "cantidad": 500,
+        "precio": 355
+      }
+    },
+    {
+      "id_producto": "P015",
+      "especificaciones": {
+        "tipo": "codito",
+        "marca": "Bodrum",
+        "cantidad": 500,
+        "precio": 355
+      }
+    },
+    {
+      "id_producto": "P017",
+      "especificaciones": {
+        "tipo": "girasol",
+        "marca": "Aloy",
+        "cantidad": 1000,
+        "precio": 990
+      }
+    },
+    {
+      "id_producto": "P040",
+      "especificaciones": {
+        "tipo": "natural",
+        "marca": "El Delicioso",
+        "cantidad": 1000,
+        "precio": 600
+      }
+    },
+    {
+      "id_producto": "P019",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Pramesa",
+        "cantidad": 500,
+        "precio": 960
+      }
+    },
+    {
+      "id_producto": "P022",
+      "especificaciones": {
+        "tipo": "blanca",
+        "marca": "Da Cana",
+        "cantidad": 1000,
+        "precio": 950
+      }
+    },
+    {
+      "id_producto": "P024",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Italiano",
+        "cantidad": 250,
+        "precio": 2000
+      }
+    },
+    {
+      "id_producto": "P039",
+      "especificaciones": {
+        "tipo": "pollo",
+        "marca": null,
+        "cantidad": 1000,
+        "precio": 850
+      }
+    },
+    {
+      "id_producto": "P035",
+      "especificaciones": {
+        "tipo": "suelto",
+        "marca": "Tiss",
+        "cantidad": null,
+        "precio": 130
+      }
+    }
+  ]
+}

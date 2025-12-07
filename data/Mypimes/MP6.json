@@ -1,247 +1,243 @@
 {
-   "id":"MP6",
-   "ubicación":
-   {
-    "municipio":"Centro Habana",
-    "coordenadas":"23.13462, -82.37011"
-   },
-   "productos":
-   [
-     {
-      "id_producto":"P001",
-      "especificaciones":{
-        "tipo":"lata",
-        "marca":"Unlaguer",
-        "cantidad":330,
-        "precio":250
+  "id": "MP6",
+  "ubicación": {
+    "municipio": "Centro Habana",
+    "coordenadas": "23.13462, -82.37011"
+  },
+  "productos": [
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Unlaguer",
+        "cantidad": 330,
+        "precio": 250
       }
-     },
-     {
-      "id_producto":"P001",
-      "especificaciones":{
-        "tipo":"lata",
-        "marca":"Cruzcampo",
-        "cantidad":330,
-        "precio":250
+    },
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Cruzcampo",
+        "cantidad": 330,
+        "precio": 250
       }
-     },
-     {
-      "id_producto":"P002",
-      "especificaciones":{
-        "tipo":"none",
-        "marca":"Cubay",
-        "cantidad":200,
-        "precio":400
+    },
+    {
+      "id_producto": "P002",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Cubay",
+        "cantidad": 200,
+        "precio": 400
       }
-     },
-     {
-      "id_producto":"P002",
-      "especificaciones":{
-        "tipo":"botella",
-        "marca":"Havana Club Original",
-        "cantidad":700,
-        "precio":1800
+    },
+    {
+      "id_producto": "P002",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Havana Club Original",
+        "cantidad": 700,
+        "precio": 1800
       }
-     },
-     {
-      "id_producto":"P004",
-      "especificaciones":{
-        "tipo":"lata",
-        "marca":"Booms Boom",
-        "cantidad":330,
-        "precio":220
+    },
+    {
+      "id_producto": "P004",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Booms Boom",
+        "cantidad": 330,
+        "precio": 220
       }
-     },
-     {
-      "id_producto":"P004",
-      "especificaciones":{
-        "tipo":"lata",
-        "marca":"7up",
-        "cantidad":350,
-        "precio":360
+    },
+    {
+      "id_producto": "P004",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "7up",
+        "cantidad": 355,
+        "precio": 360
       }
-     },
-     {
-      "id_producto":"P004",
-      "especificaciones":{
-        "tipo":"pomo",
-        "marca":"Ciego Montero",
-        "cantidad":1500,
-        "precio":650
+    },
+    {
+      "id_producto": "P004",
+      "especificaciones": {
+        "tipo": "pomo",
+        "marca": "Ciego Montero",
+        "cantidad": 1500,
+        "precio": 650
       }
-     },
-     {
-      "id_producto":"P009",
-      "especificaciones":{
-        "tipo":"lata",
-        "marca":"Perla Negra",
-        "cantidad":350,
-        "precio":300
+    },
+    {
+      "id_producto": "P009",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Perla Negra",
+        "cantidad": 355,
+        "precio": 300
       }
-     },
-     {
-      "id_producto":"P008",
-      "especificaciones":{
-        "tipo":"none",
-        "marca":"Badelli",
-        "cantidad":200,
-        "precio":180
+    },
+    {
+      "id_producto": "P008",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Badelli",
+        "cantidad": 200,
+        "precio": 180
       }
-     },
-     {
-      "id_producto":"P008",
-      "especificaciones":{
-        "tipo":"none",
-        "marca":"Goliath",
-        "cantidad":950,
-        "precio":800
+    },
+    {
+      "id_producto": "P008",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Goliath",
+        "cantidad": 950,
+        "precio": 800
       }
-     },
-     {
-      "id_producto":"P029",
-      "especificaciones":{
-        "tipo":"pomo",
-        "marca":"Ciego Montero",
-        "cantidad":500,
-        "precio":150
+    },
+    {
+      "id_producto": "P029",
+      "especificaciones": {
+        "tipo": "pomo",
+        "marca": "Ciego Montero",
+        "cantidad": 500,
+        "precio": 150
       }
-     },
-     {
-      "id_producto":"P029",
-      "especificaciones":{
-        "tipo":"pomo",
-        "marca":"Ciego Montero",
-        "cantidad":1500,
-        "precio":260
+    },
+    {
+      "id_producto": "P029",
+      "especificaciones": {
+        "tipo": "pomo",
+        "marca": "Ciego Montero",
+        "cantidad": 1500,
+        "precio": 260
       }
-     },
-     {
-      "id_producto":"P025",
-      "especificaciones":{
-        "tipo":"negro",
-        "marca":"Penelas",
-        "cantidad":500,
-        "precio":900
+    },
+    {
+      "id_producto": "P025",
+      "especificaciones": {
+        "tipo": "negro",
+        "marca": "Penelas",
+        "cantidad": 500,
+        "precio": 900
       }
-     },
-     {
-      "id_producto":"P025",
-      "especificaciones":{
-        "tipo":"colorado",
-        "marca":"Penelas",
-        "cantidad":500,
-        "precio":1150
+    },
+    {
+      "id_producto": "P025",
+      "especificaciones": {
+        "tipo": "colorado",
+        "marca": "Penelas",
+        "cantidad": 500,
+        "precio": 1150
       }
-     },
-     {
-      "id_producto":"P025",
-      "especificaciones":{
-        "tipo":"blanco",
-        "marca":"Penelas",
-        "cantidad":500,
-        "precio":900
+    },
+    {
+      "id_producto": "P025",
+      "especificaciones": {
+        "tipo": "blanco",
+        "marca": "Penelas",
+        "cantidad": 500,
+        "precio": 900
       }
-     },
-     {
-      "id_producto":"P024",
-      "especificaciones":{
-        "tipo":"none",
-        "marca":"El Dorado",
-        "cantidad":255,
-        "precio":2000
+    },
+    {
+      "id_producto": "P024",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "El Dorado",
+        "cantidad": 255,
+        "precio": 2000
       }
-     },
-     {
-      "id_producto":"P015",
-      "especificaciones":{
-        "tipo":"spaguetti",
-        "marca":"Donatella",
-        "cantidad":500,
-        "precio":320
+    },
+    {
+      "id_producto": "P015",
+      "especificaciones": {
+        "tipo": "spaguetti",
+        "marca": "Donatella",
+        "cantidad": 500,
+        "precio": 320
       }
-     },
-     {
-      "id_producto":"P041",
-      "especificaciones":{
-        "tipo":"none",
-        "marca":"Oderich",
-        "cantidad":200,
-        "precio":600
+    },
+    {
+      "id_producto": "P041",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Oderich",
+        "cantidad": 200,
+        "precio": 600
       }
-     },
-     {
-      "id_producto":"P042",
-      "especificaciones":{
-        "tipo":"none",
-        "marca":"Oderich",
-        "cantidad":200,
-        "precio":500
+    },
+    {
+      "id_producto": "P042",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Oderich",
+        "cantidad": 200,
+        "precio": 500
       }
-     },
-     {
-      "id_producto":"P018",
-      "especificaciones":{
-        "tipo":"none",
-        "marca":"Fine Tom",
-        "cantidad":400,
-        "precio":450
+    },
+    {
+      "id_producto": "P018",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Fine Tom",
+        "cantidad": 400,
+        "precio": 450
       }
-     },
-     {
-      "id_producto":"P043",
-      "especificaciones":{
-        "tipo":"none",
-        "marca":"Castellum",
-        "cantidad":390,
-        "precio":550
+    },
+    {
+      "id_producto": "P043",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Castellum",
+        "cantidad": 390,
+        "precio": 550
       }
-     },
-     {
-      "id_producto":"P022",
-      "especificaciones":{
-        "tipo":"blanca",
-        "marca":"De la Montaña",
-        "cantidad":500,
-        "precio":400
+    },
+    {
+      "id_producto": "P022",
+      "especificaciones": {
+        "tipo": "blanca",
+        "marca": "De la Montaña",
+        "cantidad": 500,
+        "precio": 400
       }
-     },
-     {
-      "id_producto":"P023",
-      "especificaciones":{
-        "tipo":"none",
-        "marca":"none",
-        "cantidad":400,
-        "precio":950
+    },
+    {
+      "id_producto": "P023",
+      "especificaciones": {
+        "tipo": "polvo",
+        "marca": null,
+        "cantidad": 400,
+        "precio": 950
       }
-     },
-     {
-      "id_producto":"P016",
-      "especificaciones":{
-        "tipo":"pechuga",
-        "marca":"none",
-        "cantidad":2000,
-        "precio":4500
+    },
+    {
+      "id_producto": "P016",
+      "especificaciones": {
+        "tipo": "pechuga",
+        "marca": null,
+        "cantidad": 2000,
+        "precio": 4500
       }
-     },
-     {
-      "id_producto":"P039",
-      "especificaciones":{
-        "tipo":"pollo",
-        "marca":"none",
-        "cantidad":1000,
-        "precio":850
+    },
+    {
+      "id_producto": "P039",
+      "especificaciones": {
+        "tipo": "pollo",
+        "marca": null,
+        "cantidad": 1000,
+        "precio": 850
       }
-     },
-     {
-      "id_producto":"P027",
-      "especificaciones":{
-        "tipo":"pollo",
-        "marca":"none",
-        "cantidad":1000,
-        "precio":550
+    },
+    {
+      "id_producto": "P027",
+      "especificaciones": {
+        "tipo": "pollo",
+        "marca": null,
+        "cantidad": 1000,
+        "precio": 550
       }
-     }
-
-    ]
-
+    }
+  ]
 }

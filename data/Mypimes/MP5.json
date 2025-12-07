@@ -1,157 +1,153 @@
 {
-   "id":"MP5",
-   "ubicación":
-   {
-    "municipio":"Centro Habana",
-    "coordenadas":"23.13588, -82.3657"
-   },
-   "productos":
-   [
-     {
-      "id_producto":"P001",
-      "especificaciones":{
-        "tipo":"lata",
-        "marca":"Moyoc",
-        "cantidad":330,
-        "precio":240
+  "id": "MP5",
+  "ubicación": {
+    "municipio": "Centro Habana",
+    "coordenadas": "23.13588, -82.3657"
+  },
+  "productos": [
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Moyoc",
+        "cantidad": 330,
+        "precio": 240
       }
-     },
-     {
-      "id_producto":"P001",
-      "especificaciones":{
-        "tipo":"lata",
-        "marca":"Shekels",
-        "cantidad":330,
-        "precio":240
+    },
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Shekels",
+        "cantidad": 330,
+        "precio": 240
       }
-     },
-     {
-      "id_producto":"P001",
-      "especificaciones":{
-        "tipo":"lata",
-        "marca":"La Bala",
-        "cantidad":330,
-        "precio":240
+    },
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "La Bala",
+        "cantidad": 330,
+        "precio": 240
       }
-     },
-     {
-      "id_producto":"P004",
-      "especificaciones":{
-        "tipo":"lata",
-        "marca":"Covey",
-        "cantidad":330,
-        "precio":250
+    },
+    {
+      "id_producto": "P004",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Covey",
+        "cantidad": 330,
+        "precio": 250
       }
-     },
-     {
-      "id_producto":"P004",
-      "especificaciones":{
-        "tipo":"pomo",
-        "marca":"Ciego Montero",
-        "cantidad":1500,
-        "precio":650
+    },
+    {
+      "id_producto": "P004",
+      "especificaciones": {
+        "tipo": "pomo",
+        "marca": "Ciego Montero",
+        "cantidad": 1500,
+        "precio": 650
       }
-     },
-     {
-      "id_producto":"P029",
-      "especificaciones":{
-        "tipo":"pomo",
-        "marca":"Ciego Montero",
-        "cantidad":500,
-        "precio":150
+    },
+    {
+      "id_producto": "P029",
+      "especificaciones": {
+        "tipo": "pomo",
+        "marca": "Ciego Montero",
+        "cantidad": 500,
+        "precio": 150
       }
-     },
-     {
-      "id_producto":"P029",
-      "especificaciones":{
-        "tipo":"pomo",
-        "marca":"Ciego Montero",
-        "cantidad":1500,
-        "precio":300
+    },
+    {
+      "id_producto": "P029",
+      "especificaciones": {
+        "tipo": "pomo",
+        "marca": "Ciego Montero",
+        "cantidad": 1500,
+        "precio": 300
       }
-     },
-     {
-      "id_producto":"P002",
-      "especificaciones":{
-        "tipo":"none",
-        "marca":"Cubay",
-        "cantidad":200,
-        "precio":350
+    },
+    {
+      "id_producto": "P002",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Cubay",
+        "cantidad": 200,
+        "precio": 355
       }
-     },
-     {
-      "id_producto":"P006",
-      "especificaciones":{
-        "tipo":"none",
-        "marca":"Fresh",
-        "cantidad":10,
-        "precio":50
+    },
+    {
+      "id_producto": "P006",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Fresh",
+        "cantidad": 10,
+        "precio": 50
       }
-     },
-     {
-      "id_producto":"P010",
-      "especificaciones":{
-        "tipo":"salada",
-        "marca":"Salricas",
-        "cantidad":450,
-        "precio":550
+    },
+    {
+      "id_producto": "P010",
+      "especificaciones": {
+        "tipo": "salada",
+        "marca": "Salricas",
+        "cantidad": 450,
+        "precio": 550
       }
-     },
-     {
-      "id_producto":"P010",
-      "especificaciones":{
-        "tipo":"dulce",
-        "marca":"Recheado",
-        "cantidad":120,
-        "precio":260
+    },
+    {
+      "id_producto": "P010",
+      "especificaciones": {
+        "tipo": "dulce",
+        "marca": "Recheado",
+        "cantidad": 120,
+        "precio": 260
       }
-     },
-     {
-      "id_producto":"P010",
-      "especificaciones":{
-        "tipo":"dulce",
-        "marca":"Dulce",
-        "cantidad":150,
-        "precio":350
+    },
+    {
+      "id_producto": "P010",
+      "especificaciones": {
+        "tipo": "dulce",
+        "marca": "Dulce",
+        "cantidad": 150,
+        "precio": 355
       }
-     },
-     {
-      "id_producto":"P012",
-      "especificaciones":{
-        "tipo":"none",
-        "marca":"H.Upmann",
-        "cantidad":"none",
-        "precio":350
+    },
+    {
+      "id_producto": "P012",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "H.Upmann",
+        "cantidad": null,
+        "precio": 355
       }
-     },
-     {
-      "id_producto":"P014",
-      "especificaciones":{
-        "tipo":"papas fritas",
-        "marca":"Kryzpo",
-        "cantidad":38,
-        "precio":300
+    },
+    {
+      "id_producto": "P014",
+      "especificaciones": {
+        "tipo": "papas fritas",
+        "marca": "Kryzpo",
+        "cantidad": 38,
+        "precio": 300
       }
-     },
-     {
-      "id_producto":"P028",
-      "especificaciones":{
-        "tipo":"none",
-        "marca":"Mancheiro",
-        "cantidad":80,
-        "precio":260
+    },
+    {
+      "id_producto": "P028",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Mancheiro",
+        "cantidad": 80,
+        "precio": 260
       }
-     },
-     {
-      "id_producto":"P011",
-      "especificaciones":{
-        "tipo":"dona",
-        "marca":"Dulce",
-        "cantidad":40,
-        "precio":130
+    },
+    {
+      "id_producto": "P011",
+      "especificaciones": {
+        "tipo": "dona",
+        "marca": "Dulce",
+        "cantidad": 40,
+        "precio": 130
       }
-     }
-
-    ]
-
+    }
+  ]
 }

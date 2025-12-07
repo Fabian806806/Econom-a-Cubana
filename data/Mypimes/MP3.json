@@ -1,175 +1,171 @@
 {
-   "id":"MP3",
-   "ubicación":
-   {
-    "municipio":"Centro Habana",
-    "coordenadas":"23.13464, -82.36299"
-   },
-   "productos":
-   [
-     { 
-      "id_producto":"P003",
-      "especificaciones":{
-        "tipo":"botella",
-        "marca":"Klipperton",
-        "cantidad":1000,
-        "precio":1300
+  "id": "MP3",
+  "ubicación": {
+    "municipio": "Centro Habana",
+    "coordenadas": "23.13464, -82.36299"
+  },
+  "productos": [
+    {
+      "id_producto": "P003",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Klipperton",
+        "cantidad": 1000,
+        "precio": 1300
       }
-     },
-     { 
-      "id_producto":"P002",
-      "especificaciones":{
-        "tipo":"botella",
-        "marca":"Santiago de Cuba",
-        "cantidad":700,
-        "precio":2600
+    },
+    {
+      "id_producto": "P002",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Santiago de Cuba Carta Blanca",
+        "cantidad": 700,
+        "precio": 2600
       }
-     },
-     { 
-      "id_producto":"P009",
-      "especificaciones":{
-        "tipo":"lata",
-        "marca":"Santa Isabel",
-        "cantidad":330,
-        "precio":260
+    },
+    {
+      "id_producto": "P009",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Santa Isabel",
+        "cantidad": 330,
+        "precio": 260
       }
-     },
-     { 
-      "id_producto":"P017",
-      "especificaciones":{
-        "tipo":"girasol",
-        "marca":"none",
-        "cantidad":1000,
-        "precio":950
+    },
+    {
+      "id_producto": "P017",
+      "especificaciones": {
+        "tipo": "girasol",
+        "marca": null,
+        "cantidad": 1000,
+        "precio": 950
       }
-     },
-     { 
-      "id_producto":"P018",
-      "especificaciones":{
-        "tipo":"none",
-        "marca":"Mantias`S",
-        "cantidad":680,
-        "precio":1350
+    },
+    {
+      "id_producto": "P018",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Mantias`S",
+        "cantidad": 680,
+        "precio": 1350
       }
-     },
-     { 
-      "id_producto":"P018",
-      "especificaciones":{
-        "tipo":"none",
-        "marca":"VIBE",
-        "cantidad":400,
-        "precio":290
+    },
+    {
+      "id_producto": "P018",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "VIBE",
+        "cantidad": 400,
+        "precio": 290
       }
-     },
-     { 
-      "id_producto":"P037",
-      "especificaciones":{
-        "tipo":"gouda",
-        "marca":"none",
-        "cantidad":3000,
-        "precio":10000
+    },
+    {
+      "id_producto": "P037",
+      "especificaciones": {
+        "tipo": "gouda",
+        "marca": null,
+        "cantidad": 3000,
+        "precio": 10000
       }
-     },
-     { 
-      "id_producto":"P022",
-      "especificaciones":{
-        "tipo":"blanca",
-        "marca":"none",
-        "cantidad":1000,
-        "precio":580
+    },
+    {
+      "id_producto": "P022",
+      "especificaciones": {
+        "tipo": "blanca",
+        "marca": null,
+        "cantidad": 1000,
+        "precio": 580
       }
-     },
-     { 
-      "id_producto":"P013",
-      "especificaciones":{
-        "tipo":"brasileño",
-        "marca":"none",
-        "cantidad":1000,
-        "precio":580
+    },
+    {
+      "id_producto": "P013",
+      "especificaciones": {
+        "tipo": "brasileño",
+        "marca": null,
+        "cantidad": 1000,
+        "precio": 580
       }
-     },
-     { 
-      "id_producto":"P015",
-      "especificaciones":{
-        "tipo":"spaguetti",
-        "marca":"VIBE",
-        "cantidad":500,
-        "precio":240
+    },
+    {
+      "id_producto": "P015",
+      "especificaciones": {
+        "tipo": "spaguetti",
+        "marca": "VIBE",
+        "cantidad": 500,
+        "precio": 240
       }
-     },
-     { 
-      "id_producto":"P015",
-      "especificaciones":{
-        "tipo":"codito",
-        "marca":"Ada",
-        "cantidad":500,
-        "precio":250
+    },
+    {
+      "id_producto": "P015",
+      "especificaciones": {
+        "tipo": "codito",
+        "marca": "Ada",
+        "cantidad": 500,
+        "precio": 250
       }
-     },
-     { 
-      "id_producto":"P019",
-      "especificaciones":{
-        "tipo":"none",
-        "marca":"Kurtz",
-        "cantidad":887,
-        "precio":2300
+    },
+    {
+      "id_producto": "P019",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Kurtz",
+        "cantidad": 887,
+        "precio": 2300
       }
-     },
-     { 
-      "id_producto":"P010",
-      "especificaciones":{
-        "tipo":"dulce",
-        "marca":"Goya",
-        "cantidad":200,
-        "precio":600
+    },
+    {
+      "id_producto": "P010",
+      "especificaciones": {
+        "tipo": "dulce",
+        "marca": "Goya",
+        "cantidad": 200,
+        "precio": 600
       }
-     },
-     { 
-      "id_producto":"P010",
-      "especificaciones":{
-        "tipo":"dulce",
-        "marca":"María",
-        "cantidad":240,
-        "precio":800
+    },
+    {
+      "id_producto": "P010",
+      "especificaciones": {
+        "tipo": "dulce",
+        "marca": "María",
+        "cantidad": 240,
+        "precio": 800
       }
-     },
-     { 
-      "id_producto":"P024",
-      "especificaciones":{
-        "tipo":"none",
-        "marca":"Pura Sangre",
-        "cantidad":250,
-        "precio":1800
+    },
+    {
+      "id_producto": "P024",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Pura Sangre",
+        "cantidad": 250,
+        "precio": 1800
       }
-     },
-     { 
-      "id_producto":"P024",
-      "especificaciones":{
-        "tipo":"none",
-        "marca":"Aroma",
-        "cantidad":250,
-        "precio":1700
+    },
+    {
+      "id_producto": "P024",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Aroma",
+        "cantidad": 250,
+        "precio": 1700
       }
-     },
-     { 
-      "id_producto":"P034",
-      "especificaciones":{
-        "tipo":"adobo",
-        "marca":"Badia",
-        "cantidad":360,
-        "precio":1600
+    },
+    {
+      "id_producto": "P034",
+      "especificaciones": {
+        "tipo": "adobo",
+        "marca": "Badia",
+        "cantidad": 360,
+        "precio": 1600
       }
-     },
-     { 
-      "id_producto":"P035",
-      "especificaciones":{
-        "tipo":"rollo",
-        "marca":"none",
-        "cantidad":"none",
-        "precio":120
+    },
+    {
+      "id_producto": "P035",
+      "especificaciones": {
+        "tipo": "rollo",
+        "marca": null,
+        "cantidad": null,
+        "precio": 120
       }
-     }
-   
-    ]
-    
+    }
+  ]
 }

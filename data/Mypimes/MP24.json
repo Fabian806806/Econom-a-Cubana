@@ -1,0 +1,315 @@
+{
+  "id": "MP24",
+  "ubicación": {
+    "municipio": "Centro Habana",
+    "coordenadas": "23.13996, -82.37376"
+  },
+  "productos": [
+    {
+      "id_producto": "P004",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Harboe",
+        "cantidad": 330,
+        "precio": 235
+      }
+    },
+    {
+      "id_producto": "P004",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Santa",
+        "cantidad": 330,
+        "precio": 250
+      }
+    },
+    {
+      "id_producto": "P004",
+      "especificaciones": {
+        "tipo": "pomo",
+        "marca": "Ciego Montero",
+        "cantidad": 1500,
+        "precio": 800
+      }
+    },
+    {
+      "id_producto": "P008",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Goliath",
+        "cantidad": 950,
+        "precio": 980
+      }
+    },
+    {
+      "id_producto": "P008",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Tango Life",
+        "cantidad": 1000,
+        "precio": 820
+      }
+    },
+    {
+      "id_producto": "P008",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Tropix",
+        "cantidad": 200,
+        "precio": 150
+      }
+    },
+    {
+      "id_producto": "P008",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Jumex",
+        "cantidad": 200,
+        "precio": 215
+      }
+    },
+    {
+      "id_producto": "P010",
+      "especificaciones": {
+        "tipo": "salada",
+        "marca": "Goya Saltines",
+        "cantidad": 220,
+        "precio": 940
+      }
+    },
+    {
+      "id_producto": "P010",
+      "especificaciones": {
+        "tipo": "dulce",
+        "marca": "Goya Carnaval",
+        "cantidad": 403,
+        "precio": 1580
+      }
+    },
+    {
+      "id_producto": "P010",
+      "especificaciones": {
+        "tipo": "dulce",
+        "marca": "Goya María",
+        "cantidad": 198,
+        "precio": 715
+      }
+    },
+    {
+      "id_producto": "P010",
+      "especificaciones": {
+        "tipo": "sulce",
+        "marca": "Vitarella",
+        "cantidad": 355,
+        "precio": 850
+      }
+    },
+    {
+      "id_producto": "P028",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Vitarella",
+        "cantidad": 120,
+        "precio": 570
+      }
+    },
+    {
+      "id_producto": "P014",
+      "especificaciones": {
+        "tipo": "papas fritas",
+        "marca": "Paparica",
+        "cantidad": 100,
+        "precio": 728
+      }
+    },
+    {
+      "id_producto": "P015",
+      "especificaciones": {
+        "tipo": "codito",
+        "marca": "Ada",
+        "cantidad": 500,
+        "precio": 420
+      }
+    },
+    {
+      "id_producto": "P015",
+      "especificaciones": {
+        "tipo": "codito",
+        "marca": "Zonia",
+        "cantidad": 500,
+        "precio": 415
+      }
+    },
+    {
+      "id_producto": "P015",
+      "especificaciones": {
+        "tipo": "spaguetti",
+        "marca": "La Mía",
+        "cantidad": 500,
+        "precio": 415
+      }
+    },
+    {
+      "id_producto": "P040",
+      "especificaciones": {
+        "tipo": "frutas",
+        "marca": "Don Roy",
+        "cantidad": 1000,
+        "precio": 450
+      }
+    },
+    {
+      "id_producto": "P040",
+      "especificaciones": {
+        "tipo": "claro",
+        "marca": "Don Roy",
+        "cantidad": 1000,
+        "precio": 450
+      }
+    },
+    {
+      "id_producto": "P040",
+      "especificaciones": {
+        "tipo": "vino tinto",
+        "marca": "Don Roy",
+        "cantidad": 1000,
+        "precio": 450
+      }
+    },
+    {
+      "id_producto": "P018",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Laila",
+        "cantidad": 400,
+        "precio": 470
+      }
+    },
+    {
+      "id_producto": "P019",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Kurtz",
+        "cantidad": 887,
+        "precio": 2910
+      }
+    },
+    {
+      "id_producto": "P041",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Kurtz",
+        "cantidad": 680,
+        "precio": 1140
+      }
+    },
+    {
+      "id_producto": "P042",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Baldom",
+        "cantidad": 355,
+        "precio": 650
+      }
+    },
+    {
+      "id_producto": "P025",
+      "especificaciones": {
+        "tipo": "lenteja",
+        "marca": "Wylwood",
+        "cantidad": 454,
+        "precio": 1060
+      }
+    },
+    {
+      "id_producto": "P025",
+      "especificaciones": {
+        "tipo": "negro",
+        "marca": "Ruano",
+        "cantidad": 500,
+        "precio": 590
+      }
+    },
+    {
+      "id_producto": "P025",
+      "especificaciones": {
+        "tipo": "colorado",
+        "marca": "Ruano",
+        "cantidad": 500,
+        "precio": 670
+      }
+    },
+    {
+      "id_producto": "P025",
+      "especificaciones": {
+        "tipo": "colorado",
+        "marca": "Ruano",
+        "cantidad": 1000,
+        "precio": 1300
+      }
+    },
+    {
+      "id_producto": "P023",
+      "especificaciones": {
+        "tipo": "líquida",
+        "marca": "Vima",
+        "cantidad": 1000,
+        "precio": 1410
+      }
+    },
+    {
+      "id_producto": "P024",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Paraná",
+        "cantidad": 250,
+        "precio": 1300
+      }
+    },
+    {
+      "id_producto": "P024",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "La Llave",
+        "cantidad": 284,
+        "precio": 2995
+      }
+    },
+    {
+      "id_producto": "P043",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Guamá",
+        "cantidad": 390,
+        "precio": 500
+      }
+    },
+    {
+      "id_producto": "P027",
+      "especificaciones": {
+        "tipo": "pollo",
+        "marca": null,
+        "cantidad": 500,
+        "precio": 510
+      }
+    },
+    {
+      "id_producto": "P038",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Coigore",
+        "cantidad": 100,
+        "precio": 550
+      }
+    },
+    {
+      "id_producto": "P035",
+      "especificaciones": {
+        "tipo": "paquete",
+        "marca": "Estrela Comfort",
+        "cantidad": null,
+        "precio": 1500
+      }
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "id": "MP23",
+  "ubicación": {
+    "municipio": "Centro Habana",
+    "coordenadas": "23.13955, -82.37454"
+  },
+  "productos": [
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "La Fría",
+        "cantidad": 330,
+        "precio": 240
+      }
+    },
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Unlaguer",
+        "cantidad": 330,
+        "precio": 240
+      }
+    },
+    {
+      "id_producto": "P002",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Cubay",
+        "cantidad": 200,
+        "precio": 355
+      }
+    },
+    {
+      "id_producto": "P003",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "The Brann",
+        "cantidad": 200,
+        "precio": 450
+      }
+    },
+    {
+      "id_producto": "P003",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "The Brann",
+        "cantidad": 500,
+        "precio": 850
+      }
+    },
+    {
+      "id_producto": "P003",
+      "especificaciones": {
+        "tipo": "botella",
+        "marca": "Old Star Gold",
+        "cantidad": 1000,
+        "precio": 1700
+      }
+    },
+    {
+      "id_producto": "P004",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Santa",
+        "cantidad": 330,
+        "precio": 270
+      }
+    },
+    {
+      "id_producto": "P004",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Booms Boom",
+        "cantidad": 330,
+        "precio": 250
+      }
+    },
+    {
+      "id_producto": "P005",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Flash",
+        "cantidad": 250,
+        "precio": 270
+      }
+    },
+    {
+      "id_producto": "P009",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Ligre",
+        "cantidad": 330,
+        "precio": 300
+      }
+    },
+    {
+      "id_producto": "P009",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Unlaguer",
+        "cantidad": 330,
+        "precio": 300
+      }
+    },
+    {
+      "id_producto": "P012",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Englishman",
+        "cantidad": null,
+        "precio": 600
+      }
+    },
+    {
+      "id_producto": "P010",
+      "especificaciones": {
+        "tipo": "salada",
+        "marca": "Salti Crackers",
+        "cantidad": 595,
+        "precio": 1260
+      }
+    },
+    {
+      "id_producto": "P011",
+      "especificaciones": {
+        "tipo": "pastel",
+        "marca": "Bear Cake Spooky",
+        "cantidad": 40,
+        "precio": 170
+      }
+    },
+    {
+      "id_producto": "P013",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Tio José",
+        "cantidad": 1000,
+        "precio": 700
+      }
+    },
+    {
+      "id_producto": "P025",
+      "especificaciones": {
+        "tipo": "negro",
+        "marca": "Malú",
+        "cantidad": 1000,
+        "precio": 800
+      }
+    },
+    {
+      "id_producto": "P026",
+      "especificaciones": {
+        "tipo": "trigo",
+        "marca": "Nabem",
+        "cantidad": 1000,
+        "precio": 650
+      }
+    },
+    {
+      "id_producto": "P022",
+      "especificaciones": {
+        "tipo": "blanca",
+        "marca": "Don Juan",
+        "cantidad": 1000,
+        "precio": 750
+      }
+    },
+    {
+      "id_producto": "P014",
+      "especificaciones": {
+        "tipo": "papas fritas",
+        "marca": "Frit Ravich",
+        "cantidad": 125,
+        "precio": 1350
+      }
+    },
+    {
+      "id_producto": "P018",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Boomerang",
+        "cantidad": 400,
+        "precio": 450
+      }
+    },
+    {
+      "id_producto": "P019",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Cosami",
+        "cantidad": 300,
+        "precio": 850
+      }
+    },
+    {
+      "id_producto": "P019",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Rayan",
+        "cantidad": 440,
+        "precio": 850
+      }
+    },
+    {
+      "id_producto": "P022",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Isla Grande",
+        "cantidad": 250,
+        "precio": 1650
+      }
+    },
+    {
+      "id_producto": "P034",
+      "especificaciones": {
+        "tipo": "sazón",
+        "marca": "Tropical",
+        "cantidad": 5,
+        "precio": 60
+      }
+    },
+    {
+      "id_producto": "P036",
+      "especificaciones": {
+        "tipo": "suave",
+        "marca": null,
+        "cantidad": null,
+        "precio": 450
+      }
+    },
+    {
+      "id_producto": "P040",
+      "especificaciones": {
+        "tipo": "ambar",
+        "marca": "TCP",
+        "cantidad": 1000,
+        "precio": 355
+      }
+    },
+    {
+      "id_producto": "P016",
+      "especificaciones": {
+        "tipo": "pechuga",
+        "marca": null,
+        "cantidad": 2000,
+        "precio": 4500
+      }
+    },
+    {
+      "id_producto": "P035",
+      "especificaciones": {
+        "tipo": "paquete",
+        "marca": "La Excelencia",
+        "cantidad": null,
+        "precio": 550
+      }
+    }
+  ]
+}

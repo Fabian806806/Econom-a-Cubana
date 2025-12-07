@@ -1,0 +1,270 @@
+{
+  "id": "MP29",
+  "ubicación": {
+    "municipio": "Centro Habana",
+    "coordenadas": "23.13503, -82.37858"
+  },
+  "productos": [
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Escorial",
+        "cantidad": 330,
+        "precio": 250
+      }
+    },
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Unlaguer",
+        "cantidad": 330,
+        "precio": 250
+      }
+    },
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "La Fría",
+        "cantidad": 330,
+        "precio": 250
+      }
+    },
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Beyou",
+        "cantidad": 330,
+        "precio": 240
+      }
+    },
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Royal Duke",
+        "cantidad": 330,
+        "precio": 240
+      }
+    },
+    {
+      "id_producto": "P001",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Holland Import",
+        "cantidad": 330,
+        "precio": 240
+      }
+    },
+    {
+      "id_producto": "P004",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Santa",
+        "cantidad": 330,
+        "precio": 250
+      }
+    },
+    {
+      "id_producto": "P004",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Covey",
+        "cantidad": 330,
+        "precio": 250
+      }
+    },
+    {
+      "id_producto": "P004",
+      "especificaciones": {
+        "tipo": "lata",
+        "marca": "Pepsi",
+        "cantidad": 355,
+        "precio": 280
+      }
+    },
+    {
+      "id_producto": "P006",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Frutti",
+        "cantidad": 10,
+        "precio": 50
+      }
+    },
+    {
+      "id_producto": "P008",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Rayan",
+        "cantidad": 200,
+        "precio": 180
+      }
+    },
+    {
+      "id_producto": "P008",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Yes!",
+        "cantidad": 1000,
+        "precio": 650
+      }
+    },
+    {
+      "id_producto": "P029",
+      "especificaciones": {
+        "tipo": "pomo",
+        "marca": "Ciego Montero",
+        "cantidad": 500,
+        "precio": 150
+      }
+    },
+    {
+      "id_producto": "P029",
+      "especificaciones": {
+        "tipo": "pomo",
+        "marca": "Ciego Montero",
+        "cantidad": 1500,
+        "precio": 250
+      }
+    },
+    {
+      "id_producto": "P010",
+      "especificaciones": {
+        "tipo": "salada",
+        "marca": "Crokantinas",
+        "cantidad": 577,
+        "precio": 1190
+      }
+    },
+    {
+      "id_producto": "P010",
+      "especificaciones": {
+        "tipo": "dulce",
+        "marca": "Nikito",
+        "cantidad": 135,
+        "precio": 250
+      }
+    },
+    {
+      "id_producto": "P010",
+      "especificaciones": {
+        "tipo": "dulce",
+        "marca": "Doble Deleite",
+        "cantidad": 140,
+        "precio": 0
+      }
+    },
+    {
+      "id_producto": "P011",
+      "especificaciones": {
+        "tipo": "Chocolate",
+        "marca": "Trento",
+        "cantidad": 29,
+        "precio": 140
+      }
+    },
+    {
+      "id_producto": "P011",
+      "especificaciones": {
+        "tipo": "chupa chupa",
+        "marca": "Big Bom",
+        "cantidad": 25,
+        "precio": 60
+      }
+    },
+    {
+      "id_producto": "P028",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Limousine",
+        "cantidad": 42,
+        "precio": 160
+      }
+    },
+    {
+      "id_producto": "P014",
+      "especificaciones": {
+        "tipo": "papas fritas",
+        "marca": "Rulass",
+        "cantidad": 20,
+        "precio": 230
+      }
+    },
+    {
+      "id_producto": "P015",
+      "especificaciones": {
+        "tipo": "spaguetti",
+        "marca": "Delizio",
+        "cantidad": 500,
+        "precio": 355
+      }
+    },
+    {
+      "id_producto": "P015",
+      "especificaciones": {
+        "tipo": "codito",
+        "marca": "Ada",
+        "cantidad": 500,
+        "precio": 355
+      }
+    },
+    {
+      "id_producto": "P018",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Risol",
+        "cantidad": 400,
+        "precio": 400
+      }
+    },
+    {
+      "id_producto": "P021",
+      "especificaciones": {
+        "tipo": null,
+        "marca": null,
+        "cantidad": 454,
+        "precio": 70
+      }
+    },
+    {
+      "id_producto": "P024",
+      "especificaciones": {
+        "tipo": null,
+        "marca": "Santa Bárbara",
+        "cantidad": 250,
+        "precio": 1300
+      }
+    },
+    {
+      "id_producto": "P034",
+      "especificaciones": {
+        "tipo": "sazón",
+        "marca": "Easy Cook",
+        "cantidad": 5,
+        "precio": 60
+      }
+    },
+    {
+      "id_producto": "P036",
+      "especificaciones": {
+        "tipo": "suave",
+        "marca": null,
+        "cantidad": null,
+        "precio": 400
+      }
+    },
+    {
+      "id_producto": "P027",
+      "especificaciones": {
+        "tipo": "pollo",
+        "marca": null,
+        "cantidad": 454,
+        "precio": 320
+      }
+    }
+  ]
+}
