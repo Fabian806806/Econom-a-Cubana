@@ -3,7 +3,7 @@
   "Datos": "Septiembre 2025",
   "Fecha de publicación": "12 de Noviembre de 2025",
   
-  "Salarios por actividad económica (CUP)":{
+  "Salarios por actividad económica":{
 
     "Transporte , almacenamiento y comunicaciones": 8657.4,
 
@@ -41,19 +41,6 @@
 
     "Hoteles y restaurantes": 5019.9
 
-   
-
-
-
-
   }
-
-
-
-
-
-
-
-
 
 }
