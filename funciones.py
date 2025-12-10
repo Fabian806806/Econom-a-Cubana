@@ -4,11 +4,34 @@ import json
 with open("E:/Economía Cuba/data/PRODUCTOS.json","r",encoding="utf-8") as f:
     Productos=json.load(f)
 
-with open("E:/Economía Cuba/data/El_Toque/USD_Noviembre.json","r",encoding="utf-8") as f:
+with open("E:/Economía Cuba/data/El_Toque/USD_2025.json","r",encoding="utf-8") as f:
     Toque=json.load(f)
     
 with open("E:/Economía Cuba/data/Salario/Salario_Mensual_Estatal.json","r",encoding="utf-8") as f:
     Salarios=json.load(f)
+
+
+
+def disponibilidad(P000):
+    carpeta="data/Mypimes"
+    mypimes=[]
+    
+    for archivo in os.listdir(carpeta):
+        ruta=os.path.join(carpeta,archivo)
+     
+        with open(ruta,"r",encoding="utf-8") as f:
+            data=json.load(f)
+            
+        for x in data["productos"]:
+            if x["id_producto"]==P000:
+                mypimes.append(data["id"])
+                break
+        
+    return mypimes
+    
+
+
+
 
 
 def medianaP(P000,tipo="precio"):
@@ -70,11 +93,17 @@ def mediana_varios(MP000,tipo="precio"):
 
 
 
-def maxmin(data):
+def maxmin(data,mes=None):
+    with open("E:/Economía Cuba/data/El_Toque/USD_2025.json","r",encoding="utf-8") as f:
+      Toque=json.load(f)
+    
+    with open("E:/Economía Cuba/data/Salario/Salario_Mensual_Estatal.json","r",encoding="utf-8") as f:
+      Salarios=json.load(f)
+    
     min=max=None
     
-    if data==Salarios:
-        for x in data["Salarios por actividad económica"]:
+    if data=="salarios":
+        for x in Salarios["Salarios por actividad económica"]:
             if min==None:
                 min=max=data["Salarios por actividad económica"][x]
         
@@ -84,8 +113,8 @@ def maxmin(data):
             elif data["Salarios por actividad económica"][x]>max:
                 max=data["Salarios por actividad económica"][x]
     
-    if data==Toque:
-        for x in data:
+    if data=="toque":
+        for x in Toque[mes]:
             if min==None:
                 min=max=x["valor"]
             
@@ -98,23 +127,55 @@ def maxmin(data):
     return f"{min} CUP , {max} CUP"
             
        
-def promed(data):
+def promed(data,mes=None):
+    with open("E:/Economía Cuba/data/El_Toque/USD_2025.json","r",encoding="utf-8") as f:
+         Toque=json.load(f)
+    
+    with open("E:/Economía Cuba/data/Salario/Salario_Mensual_Estatal.json","r",encoding="utf-8") as f:
+         Salarios=json.load(f)
+   
     suma=0
     cant=0
     
-    if data==Salarios:
-        for x in data["Salarios por actividad económica"]:
-            suma+=data["Salarios por actividad económica"][x]
+    if data=="salarios":
+        for x in Salarios["Salarios por actividad económica"]:
+            suma+=Salarios["Salarios por actividad económica"][x]
             cant+=1
+     
+        return round(suma/cant,1)
+   
+    if data=="toque":
+        if mes!= None:
+           for x in Toque[mes]:
+              suma+=x["valor"]
+              cant+=1
+       
+           return round(suma/cant,1)
+      
+        else:
+            all=[]
+            for x in Toque:
+                for día in Toque[x]:
+                    suma+=día["valor"]
+                    cant+=1
+            
+                all.append(round(suma/cant,1))
+                suma=0
+                cant=0
+          
+            return all
+                    
+            
+           
     
-    if data==Toque:
-        for x in data:
-            suma+=x["valor"]
-            cant+=1
   
-    return round(suma/cant,1)
+
 
            
+
+
+
+
 
 
 
