@@ -5,10 +5,10 @@ import matplotlib.pyplot as plt
 #__________________________________________________________________Funciones de Cálculo__________________________________________________________________________________________
 
 
-# Envío como parametro el id de un producto y me devuelve una lista con las mypimes donde se encuentra
+# Envío como parametro el id de un producto y me devuelve una lista con las mipymes donde se encuentra
 
 def disponibilidad(P000):
-    carpeta="data/Mypimes"
+    carpeta="data/Mipymes"
     mypimes=[]
     
     for archivo in os.listdir(carpeta):
@@ -35,7 +35,7 @@ def medianaP(P000,tipo,int):
    
     
     Values=[]
-    carpeta="data/Mypimes"
+    carpeta="data/Mipymes"
     
     #Recorro los json que se encuentran en la carpeta correspondiente para incluir a una lista el precio o peso del producto cada vez que aparece
 
@@ -54,7 +54,7 @@ def medianaP(P000,tipo,int):
    
     Values.sort()
    
-   # Aquí hago las dos posibles variables que retorno si la longitud de la lista de valores es par o  impar
+   # Aquí hago las dos posibles variables que retorno si la longitud de la lista de valores es par o impar
    
     par=(Values[len(Values)//2]+Values[len(Values)//2+1])//2
     impar=Values[len(Values)//2] 
@@ -143,7 +143,7 @@ def minmax(data,mes=None):
     return f"{min} CUP , {max} CUP"
             
 
-# Lo mismo que la función anterior pero en este caso con  el promedio , y en el caso de que no se especifique un mes en los parámetros devuelve una lista con todos los promedios
+# Lo mismo que la función anterior pero en este caso con el promedio , y en el caso de que no se especifique un mes en los parámetros devuelve una lista con todos los promedios
        
 def promed(data,mes=None):
     with open("E:/Economía Cuba/data/El_Toque/USD_2025.json","r",encoding="utf-8") as f:
@@ -261,6 +261,7 @@ def porciento(mes,tipo):
 #___________________________________________________________________Graficaciones______________________________________________________________________________________________
 
 
+# Evolución del valor del dólar en 2025
 
 def grafToque():
     x=["Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Noviembre"]
@@ -270,10 +271,7 @@ def grafToque():
     plt.figure(figsize=(14,5), facecolor="#E8F5E9")  
 
     
-    ax = plt.gca()
-    ax.set_facecolor("#F1F8E9") 
-    
-   
+    plt.gca().set_facecolor("#F1F8E9") 
     plt.plot(x, y, "o-",color="#2E7D32",linewidth=2.8,alpha=0.9,markersize=8, markerfacecolor="#66BB6A",markeredgecolor="#1B5E20")
     plt.axhline( y=prom,color="#1565C0",linestyle="--",linewidth=2.5,alpha=0.85,label=f"promedio {int(prom)} CUP")
     plt.xlabel("Meses", fontsize=14, fontweight="bold", color="#1B5E20")
@@ -286,11 +284,11 @@ def grafToque():
 
 
 
-
+# Comparativa salario promedio vs costo total de productos esenciales
 
 def grafProductos():
-    Valor_Total=sum(mediana_varios(["P013","P017","P020","P021","P022","P023","P030","P032","P035","P038"],"precio",int=True))
-    print(Valor_Total)
+    Valor_Total=sum(mediana_varios(["P013","P017","P020","P021","P022","P023","P030","P016","P035","P038"],"precio",int=True))
+   
     
     
     
@@ -299,6 +297,7 @@ def grafProductos():
     salario_promedio=promed("salarios")
     
     plt.figure(figsize=(14,5))
+   
     plt.gca().set_facecolor("#f7f7f7")
     plt.gcf().set_facecolor("#C4C4C4")
     plt.bar(x,Valor_Total,color="#DBBF61", edgecolor="black", linewidth=1.5)
@@ -312,28 +311,31 @@ def grafProductos():
 
 
 
-
+# Salarios por actividad económica en USD
 
 def grafSalariosUSD():
     Salarios_USD=salario_to_USD("Noviembre","todos")
-    print(Salarios_USD)
     
-        
-    Salarios=["T","IF","SE","AP","CI","E","S","CD","OT","A","P","EM","IA","AM","SE","C","CO","HR"]
+    
+    Salarios=["Transporte","Intermed Financiera","Serv Empresariales","Admin Pública","Ciencia",
+              "Educación","Salud y Asist Social","Cultura y Deporte","Serv Comunales","Agricultura y Ganad","Pesca","Explotación de Minas",
+              "Ind Azucarera","Ind Manufacturera","Sum Electr Gas Luz","Construcción","Comerc y Repar","Hoteles y Rest"]
 
     prom=salario_to_USD("Noviembre")
     
-    plt.figure(figsize=(14,5))
+    plt.figure(figsize=(16,5))
+   
     plt.gca().set_facecolor("#95e6f5")
     plt.gcf().set_facecolor("#aaadaa")
-    plt.bar(Salarios,Salarios_USD,color="#034DA1", edgecolor="black", linewidth=1.5)
-    plt.xlabel("Actividades Económicas",fontsize=14,fontweight="bold")
-    plt.ylabel("USD",fontsize=14,fontweight="bold")
-    plt.axhline( y=prom,color="#159144",linestyle="--",linewidth=2.5,alpha=0.9,label=f"Salario Promedio {int(prom)} USD")
-    plt.grid(axis="y", linestyle=":", alpha=0.5)
-    plt.title("Salarios Estatales por Actividad Económica en USD",fontsize=16,fontweight="bold",color="#333")
-    plt.legend( loc="upper center", frameon=True, facecolor="white", edgecolor="gray")
+    plt.barh(Salarios,Salarios_USD,color="#034DA1", edgecolor="black", linewidth=1.5)
+    plt.ylabel("Actividades Económicas",fontsize=14,fontweight="bold")
+    plt.xlabel("USD",fontsize=14,fontweight="bold")
+    plt.axvline(x=prom,color="#159144",linestyle="--",linewidth=2.5,alpha=0.9,label=f"Salario Promedio {int(prom)} USD")
+    plt.grid(axis="x", linestyle=":", alpha=0.5)
+    plt.title("Salarios Estatales por Actividad Económica en USD (tasa de cambio Noviembre)",fontsize=16,fontweight="bold",color="#333")
+    plt.legend( loc="upper right", frameon=True, facecolor="white", edgecolor="gray")
     
     return plt.show()
 
-grafSalariosUSD()
+
+
