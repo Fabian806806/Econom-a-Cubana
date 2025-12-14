@@ -57,7 +57,7 @@
  {
   "id":"P012",
   "nombre":"Caja de Cigarros",
-  "unidad":"none"
+  "unidad":null
  },
  {
   "id":"P013",
@@ -97,7 +97,7 @@
  {
   "id":"P020",
   "nombre":"Huevo",
-  "unidad":"none"
+  "unidad":null
  },
  {
   "id":"P021",
@@ -172,12 +172,12 @@
  {
   "id":"P035",
   "nombre":"Papel sanitario",
-  "unidad":"none"
+  "unidad":null
  },
  {
   "id":"P036",
   "nombre":"Pan",
-  "unidad":"none"
+  "unidad":null
  },
  {
   "id":"P037",

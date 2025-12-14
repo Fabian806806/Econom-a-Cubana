@@ -1,6 +1,7 @@
 import os
 import json
 import matplotlib.pyplot as plt
+import plotly.graph_objects as go
 
 #__________________________________________________________________Funciones de Cálculo__________________________________________________________________________________________
 
@@ -287,7 +288,7 @@ def grafToque():
 # Comparativa salario promedio vs costo total de productos esenciales
 
 def grafProductos():
-    Valor_Total=sum(mediana_varios(["P013","P017","P020","P021","P022","P023","P030","P016","P035","P038"],"precio",int=True))
+    Valor_Total=sum(mediana_varios(["P013","P013","P013","P013","P013","P013","P017","P020","P021","P022","P025","P025","P030","P035","P038"],"precio",int=True))
    
     
     
@@ -336,6 +337,115 @@ def grafSalariosUSD():
     plt.legend( loc="upper right", frameon=True, facecolor="white", edgecolor="gray")
     
     return plt.show()
+
+
+
+# Gráfica interactiva para viualizar los precios medios de algunos productos , incluyendo también el peso medio .
+
+def grafmipymes():
+    
+    Productos_ids=['P001','P002','P003','P004','P005','P006','P007','P008','P009','P010',
+                   'P011','P012','P013','P014','P015','P016','P017','P018','P019','P020',
+                   'P021','P022','P023','P024','P025','P026','P027','P028','P029','P030',
+                   'P031','P032','P033','P034','P035','P036','P038','P039','P040',
+                   'P041','P042','P043']
+
+    precios=mediana_varios(Productos_ids,"precio",int=True)
+    precios_str=mediana_varios(Productos_ids,"precio",int=False)
+    pesos_str=mediana_varios(Productos_ids,"cantidad",int=False)   
+     
+    # Aquí la lista de pesos que están en string separo el valor int del tipo de unidad de medidad del producto
+    
+    pesos=[]
+    unidades=[]
+    
+    for p in pesos_str:
+        if p==None:
+            pesos.append(None)
+            unidades.append(None)
+        elif type(p)==int:
+            pesos.append(p)
+            unidades.append("variable")
+        else:
+            valor,unidad=p.split()
+            pesos.append(int(valor))
+            unidades.append(unidad)
+    
+    hover_text=[
+        f"<b>Producto:</b> {pid}<br><b>Precio:</b> {pr}<br><b>Peso:</b> {pw}<br><b>Unidad:</b> {un}"
+        for pid,pr,pw,un in zip(Productos_ids,precios_str,pesos,unidades)
+    ]
+
+    # Preparo las variables que utilizaré en dos categorías , productos que posean unidad de medida y productos que no poseen 
+
+    x_con_peso=[]
+    y_con_peso=[]
+    text_con_peso=[]
+    color_con_peso=[]
+    simbolo_con_peso=[]
+    size_con_peso=[]
+
+    x_sin_peso=[]
+    y_sin_peso=[]
+    text_sin_peso=[]
+    size_sin_peso=[]
+
+    for x,y,u,t,p in zip(pesos,precios,unidades,hover_text,precios):
+        if x is None:
+            x_sin_peso.append(-50)
+            y_sin_peso.append(y)
+            text_sin_peso.append(t)
+            size_sin_peso.append(max(8,min(p/200,30)))
+        else:
+            x_con_peso.append(x)
+            y_con_peso.append(y)
+            text_con_peso.append(t)
+            size_con_peso.append(max(8,min(p/200,30)))
+            if u=="gr":
+                color_con_peso.append("#4C78A8")
+                simbolo_con_peso.append("circle")
+            elif u=="ml":
+                color_con_peso.append("#F58518")
+                simbolo_con_peso.append("diamond")
+            elif u=="variable":
+                color_con_peso.append("#54A24B")
+                simbolo_con_peso.append("square")
+            else:
+                color_con_peso.append("#B0B0B0")
+                simbolo_con_peso.append("circle")
+
+    # Con las variables listas realizo el proceso de graficaciön
+
+    Fig=go.Figure()
+
+    Fig.add_trace(go.Scatter(
+        x=x_con_peso,y=y_con_peso,mode="markers",
+        text=text_con_peso,hoverinfo="text",
+        marker=dict(size=size_con_peso,color=color_con_peso,symbol=simbolo_con_peso,
+                    opacity=0.8,line=dict(width=1.5,color="white")),
+        name="Con peso"
+    ))
+
+    Fig.add_trace(go.Scatter(
+        x=x_sin_peso,y=y_sin_peso,mode="markers",
+        text=text_sin_peso,hoverinfo="text",
+        marker=dict(size=size_sin_peso,color="#B0B0B0",symbol="x",
+                    opacity=0.9,line=dict(width=2,color="black")),
+        name="Sin peso"
+    ))
+
+    Fig.update_layout(
+        title=dict(text="Precio medio vs Peso medio por producto",x=0.5,font=dict(size=20)),
+        xaxis=dict(title="Peso / Volumen",showgrid=True,gridcolor="rgba(200,200,200,0.4)",
+                   zeroline=False),
+        yaxis=dict(title="Precio medio (CUP)",showgrid=True,gridcolor="rgba(200,200,200,0.4)",
+                   zeroline=False),
+        plot_bgcolor="white",paper_bgcolor="white",
+        hovermode="closest",
+        margin=dict(l=60,r=40,t=80,b=60)
+    )
+    
+    return Fig.show()
 
 
 
