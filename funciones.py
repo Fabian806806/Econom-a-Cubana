@@ -122,13 +122,13 @@ def minmax(data,mes=None):
     if data=="salarios":
         for x in Salarios["Salarios por actividad económica"]:
             if min==None:
-                min=max=data["Salarios por actividad económica"][x]
+                min=max=Salarios["Salarios por actividad económica"][x]
         
-            elif data["Salarios por actividad económica"][x]<min:
-                min=data["Salarios por actividad económica"][x]
+            elif Salarios["Salarios por actividad económica"][x]<min:
+                min=Salarios["Salarios por actividad económica"][x]
         
-            elif data["Salarios por actividad económica"][x]>max:
-                max=data["Salarios por actividad económica"][x]
+            elif Salarios["Salarios por actividad económica"][x]>max:
+                max=Salarios["Salarios por actividad económica"][x]
     
     if data=="toque":
         for x in Toque[mes]:
