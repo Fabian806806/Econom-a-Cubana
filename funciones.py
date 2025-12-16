@@ -185,7 +185,7 @@ def promed(data,mes=None):
           
             return all
                     
-# Realiza el promedio "anual"(Enero-Noviembre) del dólar
+# Realiza el promedio "anual"(Enero-Noviembre) del dólar por el Toque
 
 def anualT():
     with open("E:/Economía Cuba/data/El_Toque/USD_2025.json","r",encoding="utf-8") as f:
