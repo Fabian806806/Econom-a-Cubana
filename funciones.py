@@ -340,9 +340,33 @@ def grafSalariosUSD():
 
 
 
+
+# Muestra como el salario mensual promedio son cada vez menos dólares 
+
+def grafValor_USD():
+    Valores=[salario_to_USD("Enero"),salario_to_USD("Febrero"),salario_to_USD("Marzo"),salario_to_USD("Abril"),salario_to_USD("Mayo"),salario_to_USD("Junio"),
+           salario_to_USD("Julio"),salario_to_USD("Agosto"),salario_to_USD("Septiembre"),salario_to_USD("Octubre"),salario_to_USD("Noviembre")]
+    
+    Meses=["Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Noviembre"]
+   
+    plt.figure(figsize=(16,5))
+    plt.gcf().set_facecolor("#C7C6C6")
+    
+    plt.bar(Meses,Valores,color=["#C7A853","#C5A240","#C49926","#C49516","#BE8D04","#9C7300","#866300","#755702","#634901","#4E3900","#725200",],linewidth=1.5)
+    plt.grid(axis="y", linestyle=":", alpha=0.5)
+    plt.xlabel("Meses",fontsize=14,fontweight="bold")
+    plt.ylabel("USD",fontsize=14,fontweight="bold")
+    plt.title("Salario Promedio en USD a lo Largo del Año 2025",fontsize=16,fontweight="bold")
+    
+    return plt.show()    
+    
+
+
+
+
 # Gráfica interactiva para viualizar los precios medios de algunos productos , incluyendo también el peso medio .
 
-def grafmipymes():
+def grafPrecio_Peso():
     with open("E:/Economía Cuba/data/PRODUCTOS.json","r",encoding="utf-8") as f:
         Productos=json.load(f)
     
