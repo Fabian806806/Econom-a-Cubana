@@ -57,7 +57,7 @@ def medianaP(P000,tipo,int):
    
    # Aquí hago las dos posibles variables que retorno si la longitud de la lista de valores es par o impar
    
-    par=(Values[len(Values)//2]+Values[len(Values)//2+1])//2
+    par=(Values[len(Values)//2]+Values[len(Values)//2-1])//2
     impar=Values[len(Values)//2] 
    
    
@@ -343,12 +343,24 @@ def grafSalariosUSD():
 # Gráfica interactiva para viualizar los precios medios de algunos productos , incluyendo también el peso medio .
 
 def grafmipymes():
+    with open("E:/Economía Cuba/data/PRODUCTOS.json","r",encoding="utf-8") as f:
+        Productos=json.load(f)
+    
     
     Productos_ids=['P001','P002','P003','P004','P005','P006','P007','P008','P009','P010',
                    'P011','P012','P013','P014','P015','P016','P017','P018','P019','P020',
                    'P021','P022','P023','P024','P025','P026','P027','P028','P029','P030',
                    'P031','P032','P033','P034','P035','P036','P038','P039','P040',
                    'P041','P042','P043']
+    
+    # Creo una variable que tendrá los nombres de los productos para usarlos en la gráfica
+    
+    Productos_name=[]
+    for x in Productos_ids:
+        for i in Productos:
+            if x==i["id"]:
+                Productos_name.append(i["nombre"])
+                
 
     precios=mediana_varios(Productos_ids,"precio",int=True)
     precios_str=mediana_varios(Productos_ids,"precio",int=False)
@@ -373,7 +385,7 @@ def grafmipymes():
     
     hover_text=[
         f"<b>Producto:</b> {pid}<br><b>Precio:</b> {pr}<br><b>Peso:</b> {pw}<br><b>Unidad:</b> {un}"
-        for pid,pr,pw,un in zip(Productos_ids,precios_str,pesos,unidades)
+        for pid,pr,pw,un in zip(Productos_name,precios_str,pesos,unidades)
     ]
 
     # Preparo las variables que utilizaré en dos categorías , productos que posean unidad de medida y productos que no poseen 

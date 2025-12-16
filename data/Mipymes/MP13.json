@@ -278,7 +278,7 @@
     {
       "id_producto": "P020",
       "especificaciones": {
-        "tipo": "cartón",
+        "tipo": null,
         "marca": null,
         "cantidad": null,
         "precio": 3000

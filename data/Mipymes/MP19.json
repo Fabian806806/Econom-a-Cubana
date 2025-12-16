@@ -314,10 +314,10 @@
     {
       "id_producto": "P020",
       "especificaciones": {
-        "tipo": "suelto",
+        "tipo": null,
         "marca": null,
         "cantidad": null,
-        "precio": 120
+        "precio": 3600
       }
     },
     {
