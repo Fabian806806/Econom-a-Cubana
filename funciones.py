@@ -269,7 +269,7 @@ def grafToque():
     y=promed("toque")
     prom=anualT()
     
-    plt.figure(figsize=(14,5), facecolor="#E8F5E9")  
+    plt.figure(figsize=(20,8), facecolor="#E8F5E9")  
 
     
     plt.gca().set_facecolor("#F1F8E9") 
@@ -297,7 +297,7 @@ def grafProductos():
     
     salario_promedio=promed("salarios")
     
-    plt.figure(figsize=(14,5))
+    plt.figure(figsize=(20,8))
    
     plt.gca().set_facecolor("#f7f7f7")
     plt.gcf().set_facecolor("#C4C4C4")
@@ -324,7 +324,7 @@ def grafSalariosUSD():
 
     prom=salario_to_USD("Noviembre")
     
-    plt.figure(figsize=(16,5))
+    plt.figure(figsize=(20,8))
    
     plt.gca().set_facecolor("#95e6f5")
     plt.gcf().set_facecolor("#aaadaa")
@@ -349,7 +349,7 @@ def grafValor_USD():
     
     Meses=["Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Noviembre"]
    
-    plt.figure(figsize=(16,5))
+    plt.figure(figsize=(20,8))
     plt.gcf().set_facecolor("#C7C6C6")
     
     plt.bar(Meses,Valores,color=["#C7A853","#C5A240","#C49926","#C49516","#BE8D04","#9C7300","#866300","#755702","#634901","#4E3900","#725200",],linewidth=1.5)
