@@ -31,7 +31,7 @@ def disponibilidad(P000):
 # Envío como parámetro el id de un producto y dependiendo del tipo (precio o peso) me envía la mediana de ese producto en las mypimes , si int=True me devuelve solamente el valor
 
 def medianaP(P000,tipo,int):
-    with open("E:/Economía Cuba/data/PRODUCTOS.json","r",encoding="utf-8") as f:
+    with open("data/PRODUCTOS.json","r",encoding="utf-8") as f:
         Productos=json.load(f)
    
     
@@ -111,10 +111,10 @@ def mediana_varios(P000,tipo,int):
 # Me devuelve el valor mínimo y máximo, ya sea de los salarios estatales o del valor del dólar en un mes específico
 
 def minmax(data,mes=None):
-    with open("E:/Economía Cuba/data/El_Toque/USD_2025.json","r",encoding="utf-8") as f:
+    with open("data/El_Toque/USD_2025.json","r",encoding="utf-8") as f:
       Toque=json.load(f)
     
-    with open("E:/Economía Cuba/data/Salario/Salario_Mensual_Estatal.json","r",encoding="utf-8") as f:
+    with open("data/Salario/Salario_Mensual_Estatal.json","r",encoding="utf-8") as f:
       Salarios=json.load(f)
     
     min=max=None
@@ -147,10 +147,10 @@ def minmax(data,mes=None):
 # Lo mismo que la función anterior pero en este caso con el promedio , y en el caso de que no se especifique un mes en los parámetros devuelve una lista con todos los promedios
        
 def promed(data,mes=None):
-    with open("E:/Economía Cuba/data/El_Toque/USD_2025.json","r",encoding="utf-8") as f:
+    with open("data/El_Toque/USD_2025.json","r",encoding="utf-8") as f:
          Toque=json.load(f)
     
-    with open("E:/Economía Cuba/data/Salario/Salario_Mensual_Estatal.json","r",encoding="utf-8") as f:
+    with open("data/Salario/Salario_Mensual_Estatal.json","r",encoding="utf-8") as f:
          Salarios=json.load(f)
    
     suma=0
@@ -188,7 +188,7 @@ def promed(data,mes=None):
 # Realiza el promedio "anual"(Enero-Noviembre) del dólar por el Toque
 
 def anualT():
-    with open("E:/Economía Cuba/data/El_Toque/USD_2025.json","r",encoding="utf-8") as f:
+    with open("data/El_Toque/USD_2025.json","r",encoding="utf-8") as f:
         Toque=json.load(f)
     días=0
     cant=0
@@ -207,7 +207,7 @@ def anualT():
 # Convierte el salario de un sector en específico en CUP a USD tomando como referencia el Toque en el mes en el parámetro, si no se especifica hará la conversión del promedio
            
 def salario_to_USD(mes,sector=None):
-    with open("E:/Economía Cuba/data/Salario/Salario_Mensual_Estatal.json","r",encoding="utf-8") as f:
+    with open("data/Salario/Salario_Mensual_Estatal.json","r",encoding="utf-8") as f:
         Salarios=json.load(f)
     
     if sector!=None and sector!="todos":    
@@ -232,7 +232,7 @@ def salario_to_USD(mes,sector=None):
 # Ve la caida o ascenso del valor del dolar a largo plazo (referencia enero) o a corto plazo (referencia el mes anterior)
 
 def porciento(mes,tipo):
-    with open("E:/Economía Cuba/data/El_Toque/USD_2025.json","r",encoding="utf-8") as f:
+    with open("data/El_Toque/USD_2025.json","r",encoding="utf-8") as f:
         Toque=json.load(f)
     
     meses=[x for x in Toque] 
@@ -367,7 +367,7 @@ def grafValor_USD():
 # Gráfica interactiva para viualizar los precios medios de algunos productos , incluyendo también el peso medio .
 
 def grafPrecio_Peso():
-    with open("E:/Economía Cuba/data/PRODUCTOS.json","r",encoding="utf-8") as f:
+    with open("data/PRODUCTOS.json","r",encoding="utf-8") as f:
         Productos=json.load(f)
     
     
